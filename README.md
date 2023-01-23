@@ -1,5 +1,5 @@
 # GLADIS
-GLADIS: A General and Large Acronym Disambiguation Benchmark (EACL 23)
+GLADIS: A General and Large Acronym Disambiguation Benchmark (Long paper at EACL 23)
 
 
 The tree structure of this folder is shown as follows
