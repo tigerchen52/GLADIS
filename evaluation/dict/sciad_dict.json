@@ -1,0 +1,10698 @@
+{
+    "MDC": [
+        [
+            "metering data collector",
+            1
+        ],
+        [
+            "mobile data challenge",
+            1
+        ],
+        [
+            "multiple description coding",
+            1
+        ]
+    ],
+    "SVM": [
+        [
+            "support vector machine",
+            1
+        ],
+        [
+            "state vector machine",
+            1
+        ]
+    ],
+    "MER": [
+        [
+            "maximum entropy regularizer",
+            1
+        ],
+        [
+            "music emotion research",
+            1
+        ],
+        [
+            "music emotion recognition",
+            1
+        ]
+    ],
+    "SVC": [
+        [
+            "support vector classifier",
+            1
+        ],
+        [
+            "scalable video coding",
+            1
+        ]
+    ],
+    "CNN": [
+        [
+            "convolutional neural network",
+            1
+        ],
+        [
+            "condensed nearest neighbor",
+            1
+        ],
+        [
+            "complicated neural networks",
+            1
+        ],
+        [
+            "citation nearest neighbour",
+            1
+        ]
+    ],
+    "FEC": [
+        [
+            "forward error correction",
+            1
+        ],
+        [
+            "federal election candidate",
+            1
+        ]
+    ],
+    "FSM": [
+        [
+            "finite state machine",
+            1
+        ],
+        [
+            "fast sweeping method",
+            1
+        ]
+    ],
+    "LDA": [
+        [
+            "latent dirichlet allocation",
+            1
+        ],
+        [
+            "linear discriminant analysis",
+            1
+        ]
+    ],
+    "FR": [
+        [
+            "frame recall",
+            1
+        ],
+        [
+            "faster r - cnn",
+            1
+        ],
+        [
+            "fooling rate",
+            1
+        ]
+    ],
+    "TF": [
+        [
+            "term frequency",
+            1
+        ],
+        [
+            "trend filtering",
+            1
+        ],
+        [
+            "tensor factorization",
+            1
+        ],
+        [
+            "transcription factor",
+            1
+        ]
+    ],
+    "SS": [
+        [
+            "speech synthesis",
+            1
+        ],
+        [
+            "single stage",
+            1
+        ],
+        [
+            "stochastic search",
+            1
+        ],
+        [
+            "social status",
+            1
+        ],
+        [
+            "spectrum sensing",
+            1
+        ],
+        [
+            "severe sepsis",
+            1
+        ],
+        [
+            "scheduled sampling",
+            1
+        ],
+        [
+            "secondary structure",
+            1
+        ],
+        [
+            "simple sum",
+            1
+        ]
+    ],
+    "GPS": [
+        [
+            "global positioning system",
+            1
+        ],
+        [
+            "general pattern search",
+            1
+        ],
+        [
+            "generalized propensity score",
+            1
+        ]
+    ],
+    "PCA": [
+        [
+            "principal component analysis",
+            1
+        ],
+        [
+            "posterior cortical atrophy",
+            1
+        ]
+    ],
+    "MSE": [
+        [
+            "mean squared error",
+            1
+        ],
+        [
+            "model selection eqn",
+            1
+        ],
+        [
+            "minimum square error",
+            1
+        ]
+    ],
+    "ILP": [
+        [
+            "inductive logic programming",
+            1
+        ],
+        [
+            "integer linear programming",
+            1
+        ]
+    ],
+    "MTI": [
+        [
+            "mixture time invariant",
+            1
+        ],
+        [
+            "medical text indexer",
+            1
+        ]
+    ],
+    "SNN": [
+        [
+            "siamese neural network",
+            1
+        ],
+        [
+            "spiking neural networks",
+            1
+        ]
+    ],
+    "SOP": [
+        [
+            "sentence order prediction",
+            1
+        ],
+        [
+            "secrecy outage probability",
+            1
+        ]
+    ],
+    "SVD": [
+        [
+            "singular value decomposition",
+            1
+        ],
+        [
+            "singing voice detection",
+            1
+        ]
+    ],
+    "CD": [
+        [
+            "cosine distance",
+            1
+        ],
+        [
+            "contrastive divergence",
+            1
+        ],
+        [
+            "consecutive disks",
+            1
+        ],
+        [
+            "critical difference",
+            1
+        ],
+        [
+            "chamfer distance",
+            1
+        ],
+        [
+            "contact distance",
+            1
+        ],
+        [
+            "cover difference",
+            1
+        ],
+        [
+            "chemical diagram",
+            1
+        ],
+        [
+            "crohn 's disease",
+            1
+        ]
+    ],
+    "OCR": [
+        [
+            "optical character recognition",
+            1
+        ],
+        [
+            "one - to - one character replacements",
+            1
+        ]
+    ],
+    "MRC": [
+        [
+            "machine reading comprehension",
+            1
+        ],
+        [
+            "maximal ratio combining",
+            1
+        ],
+        [
+            "magnetic resonance coupling",
+            1
+        ]
+    ],
+    "SAP": [
+        [
+            "stable abstraction principle",
+            1
+        ],
+        [
+            "simple amplitude presitortion",
+            1
+        ]
+    ],
+    "DPP": [
+        [
+            "determinantal point process",
+            1
+        ],
+        [
+            "disjoint paths problem",
+            1
+        ]
+    ],
+    "QRF": [
+        [
+            "quantile random forest",
+            1
+        ],
+        [
+            "quantile regression forest",
+            1
+        ]
+    ],
+    "GCM": [
+        [
+            "google cloud messaging",
+            1
+        ],
+        [
+            "generalized cell - to - cell mapping",
+            1
+        ],
+        [
+            "general circulation model",
+            1
+        ],
+        [
+            "galois / counter mode",
+            1
+        ],
+        [
+            "global circulation model",
+            1
+        ]
+    ],
+    "PPP": [
+        [
+            "poisson point process",
+            1
+        ],
+        [
+            "palm point process",
+            1
+        ]
+    ],
+    "FCN": [
+        [
+            "fully convolutional neural network",
+            1
+        ],
+        [
+            "fully connected network",
+            1
+        ]
+    ],
+    "RNN": [
+        [
+            "recurrent neural network",
+            1
+        ],
+        [
+            "random neural networks",
+            1
+        ],
+        [
+            "recursive neural network",
+            1
+        ],
+        [
+            "reverse nearest neighbour",
+            1
+        ]
+    ],
+    "ML": [
+        [
+            "machine learning",
+            1
+        ],
+        [
+            "maximum likelihood",
+            1
+        ],
+        [
+            "model logic",
+            1
+        ],
+        [
+            "malware landscape",
+            1
+        ],
+        [
+            "mortar luminance",
+            1
+        ]
+    ],
+    "BC": [
+        [
+            "bandwidth constraint",
+            1
+        ],
+        [
+            "betweenness centrality",
+            1
+        ],
+        [
+            "between class",
+            1
+        ],
+        [
+            "broadcast channel",
+            1
+        ],
+        [
+            "blockchain",
+            1
+        ]
+    ],
+    "BN": [
+        [
+            "bayesian network",
+            1
+        ],
+        [
+            "batch normalization",
+            1
+        ]
+    ],
+    "TC": [
+        [
+            "telephone conversations",
+            1
+        ],
+        [
+            "town crier",
+            1
+        ],
+        [
+            "tumor core",
+            1
+        ],
+        [
+            "time - continuous",
+            1
+        ],
+        [
+            "target country",
+            1
+        ],
+        [
+            "total cover",
+            1
+        ],
+        [
+            "traffic class",
+            1
+        ],
+        [
+            "total correlation",
+            1
+        ]
+    ],
+    "TS": [
+        [
+            "tree structures",
+            1
+        ],
+        [
+            "terminal stance",
+            1
+        ],
+        [
+            "temperature scaling",
+            1
+        ],
+        [
+            "temperature - based sampling",
+            1
+        ],
+        [
+            "tabu search",
+            1
+        ],
+        [
+            "thompson sampling",
+            1
+        ],
+        [
+            "time series",
+            1
+        ],
+        [
+            "time switching",
+            1
+        ],
+        [
+            "target syntactic",
+            1
+        ],
+        [
+            "text summarization",
+            1
+        ],
+        [
+            "triadic simmelian",
+            1
+        ],
+        [
+            "tessellation shader",
+            1
+        ]
+    ],
+    "HPC": [
+        [
+            "high performance computing",
+            1
+        ],
+        [
+            "hardware performance counters",
+            1
+        ]
+    ],
+    "OSS": [
+        [
+            "orthogonal spectrum sharing",
+            1
+        ],
+        [
+            "open source software",
+            1
+        ]
+    ],
+    "MAD": [
+        [
+            "median absolute difference",
+            1
+        ],
+        [
+            "median absolute deviations",
+            1
+        ],
+        [
+            "map attention decision",
+            1
+        ]
+    ],
+    "POS": [
+        [
+            "partial optimal slacking",
+            1
+        ],
+        [
+            "part of speech",
+            1
+        ]
+    ],
+    "SSD": [
+        [
+            "solid state disk",
+            1
+        ],
+        [
+            "single shot detection",
+            1
+        ]
+    ],
+    "FA": [
+        [
+            "feature alignment",
+            1
+        ],
+        [
+            "fractional anisotropy",
+            1
+        ],
+        [
+            "feedback alignment",
+            1
+        ],
+        [
+            "failure analysis",
+            1
+        ],
+        [
+            "firefly algorithm",
+            1
+        ],
+        [
+            "false alarm",
+            1
+        ],
+        [
+            "fault attack",
+            1
+        ]
+    ],
+    "GPA": [
+        [
+            "gaussian process adaptation",
+            1
+        ],
+        [
+            "generalized procrustes analysis",
+            1
+        ],
+        [
+            "graph partition algorithm",
+            1
+        ]
+    ],
+    "APS": [
+        [
+            "adaptive patch selection",
+            1
+        ],
+        [
+            "adaptive patch search",
+            1
+        ],
+        [
+            "american physical society",
+            1
+        ],
+        [
+            "augmented path schema",
+            1
+        ]
+    ],
+    "FEM": [
+        [
+            "finite element method",
+            1
+        ],
+        [
+            "finite element methodgm97",
+            1
+        ]
+    ],
+    "CT": [
+        [
+            "computed tomography",
+            1
+        ],
+        [
+            "constraint theory",
+            1
+        ],
+        [
+            "contributor trust",
+            1
+        ],
+        [
+            "conditional training",
+            1
+        ],
+        [
+            "crowd trust",
+            1
+        ],
+        [
+            "confidential transactions",
+            1
+        ],
+        [
+            "coordinated turn",
+            1
+        ],
+        [
+            "class table",
+            1
+        ]
+    ],
+    "CAD": [
+        [
+            "coronary artery disease",
+            1
+        ],
+        [
+            "computer aided design",
+            1
+        ],
+        [
+            "computer aided diagnosis",
+            1
+        ]
+    ],
+    "IR": [
+        [
+            "imbalance ratio",
+            1
+        ],
+        [
+            "individual rationality",
+            1
+        ],
+        [
+            "information retrieval",
+            1
+        ],
+        [
+            "interference range",
+            1
+        ],
+        [
+            "immediate regret",
+            1
+        ],
+        [
+            "influence rank",
+            1
+        ],
+        [
+            "influence ratio",
+            1
+        ],
+        [
+            "integrates results",
+            1
+        ],
+        [
+            "incremental relaying",
+            1
+        ],
+        [
+            "image resolution",
+            1
+        ],
+        [
+            "inactive region",
+            1
+        ]
+    ],
+    "SMT": [
+        [
+            "satisfiability modulo theory",
+            1
+        ],
+        [
+            "statistical machine translation",
+            1
+        ],
+        [
+            "semantic mask transfer",
+            1
+        ]
+    ],
+    "ER": [
+        [
+            "entity relationship",
+            1
+        ],
+        [
+            "error rate",
+            1
+        ],
+        [
+            "erdos - renyi",
+            1
+        ],
+        [
+            "experience replay",
+            1
+        ],
+        [
+            "estrogen receptor",
+            1
+        ],
+        [
+            "entity recognition",
+            1
+        ],
+        [
+            "encoder rnn",
+            1
+        ]
+    ],
+    "JCR": [
+        [
+            "journal citation report",
+            1
+        ],
+        [
+            "jointly convex representation",
+            1
+        ]
+    ],
+    "STBM": [
+        [
+            "stochastic topic block model",
+            1
+        ],
+        [
+            "stochastic tensor block model",
+            1
+        ]
+    ],
+    "EC": [
+        [
+            "evolutionary computation",
+            1
+        ],
+        [
+            "equivalence class",
+            1
+        ],
+        [
+            "eigenvector centrality",
+            1
+        ],
+        [
+            "effective concentration",
+            1
+        ],
+        [
+            "empty categories",
+            1
+        ],
+        [
+            "emergent configuration",
+            1
+        ]
+    ],
+    "UE": [
+        [
+            "user equilibrium",
+            1
+        ],
+        [
+            "unreal engine",
+            1
+        ],
+        [
+            "user equipment",
+            1
+        ]
+    ],
+    "ODE": [
+        [
+            "o - d demand estimation",
+            1
+        ],
+        [
+            "ordinary differential equation",
+            1
+        ]
+    ],
+    "VI": [
+        [
+            "vector initialization",
+            1
+        ],
+        [
+            "variable importance",
+            1
+        ],
+        [
+            "variational inference",
+            1
+        ],
+        [
+            "variational information",
+            1
+        ],
+        [
+            "vegetation indices",
+            1
+        ]
+    ],
+    "RI": [
+        [
+            "random indexing",
+            1
+        ],
+        [
+            "rand index",
+            1
+        ]
+    ],
+    "DM": [
+        [
+            "distribution matching",
+            1
+        ],
+        [
+            "discovery of models",
+            1
+        ],
+        [
+            "dialog management",
+            1
+        ],
+        [
+            "directional modulation",
+            1
+        ],
+        [
+            "data management",
+            1
+        ]
+    ],
+    "ASE": [
+        [
+            "amplified spontaneous emission",
+            1
+        ],
+        [
+            "average scale error",
+            1
+        ]
+    ],
+    "AIR": [
+        [
+            "achievable information rates",
+            1
+        ],
+        [
+            "application instance role",
+            1
+        ]
+    ],
+    "TL": [
+        [
+            "tracking logic",
+            1
+        ],
+        [
+            "transfer learning",
+            1
+        ]
+    ],
+    "RTS": [
+        [
+            "request to send",
+            1
+        ],
+        [
+            "real time strategy",
+            1
+        ]
+    ],
+    "MAC": [
+        [
+            "medium access control",
+            1
+        ],
+        [
+            "multiple access channels",
+            1
+        ],
+        [
+            "mandatory access control",
+            1
+        ],
+        [
+            "message authentication code",
+            1
+        ],
+        [
+            "metropolitan airports commission",
+            1
+        ],
+        [
+            "multiply accumulate",
+            1
+        ],
+        [
+            "multiple access control",
+            1
+        ]
+    ],
+    "DCF": [
+        [
+            "distributed coordination function",
+            1
+        ],
+        [
+            "discriminative correlation filter",
+            1
+        ]
+    ],
+    "GK": [
+        [
+            "graphlet kernel",
+            1
+        ],
+        [
+            "greedy knapsack",
+            1
+        ]
+    ],
+    "DCNN": [
+        [
+            "deep convolutional neural network",
+            1
+        ],
+        [
+            "dynamic convolutional neural network",
+            1
+        ]
+    ],
+    "PSD": [
+        [
+            "power spectral density",
+            1
+        ],
+        [
+            "phase shift difference",
+            1
+        ]
+    ],
+    "CA": [
+        [
+            "corresponding arcs",
+            1
+        ],
+        [
+            "current account",
+            1
+        ],
+        [
+            "contention adaptions",
+            1
+        ],
+        [
+            "combinatorial auction",
+            1
+        ],
+        [
+            "cumulative activation",
+            1
+        ],
+        [
+            "cellular automata",
+            1
+        ],
+        [
+            "coordinate ascent",
+            1
+        ],
+        [
+            "classification accuracy",
+            1
+        ],
+        [
+            "context adaptation",
+            1
+        ],
+        [
+            "cardiac amyloidosis",
+            1
+        ],
+        [
+            "contextual attention",
+            1
+        ],
+        [
+            "conversational analysis",
+            1
+        ],
+        [
+            "certificate authority",
+            1
+        ],
+        [
+            "community animator",
+            1
+        ],
+        [
+            "conditioning augmentation",
+            1
+        ],
+        [
+            "character - level accuracy",
+            1
+        ],
+        [
+            "coded aperture",
+            1
+        ]
+    ],
+    "ICP": [
+        [
+            "iterative closest point",
+            1
+        ],
+        [
+            "inductive conformal prediction",
+            1
+        ],
+        [
+            "iterative cache placement",
+            1
+        ]
+    ],
+    "MAE": [
+        [
+            "mean absolute error",
+            1
+        ],
+        [
+            "maximum absolute error",
+            1
+        ],
+        [
+            "mean average error",
+            1
+        ]
+    ],
+    "RL": [
+        [
+            "reinforcement learning",
+            1
+        ],
+        [
+            "representation learning",
+            1
+        ],
+        [
+            "robot learning",
+            1
+        ],
+        [
+            "relative location",
+            1
+        ],
+        [
+            "restrained lloyd",
+            1
+        ],
+        [
+            "resource limitations",
+            1
+        ],
+        [
+            "robust locomotion",
+            1
+        ]
+    ],
+    "CRF": [
+        [
+            "conditional random field",
+            1
+        ],
+        [
+            "constant rate factor",
+            1
+        ],
+        [
+            "correlation robust function",
+            1
+        ]
+    ],
+    "NP": [
+        [
+            "noun phrase",
+            1
+        ],
+        [
+            "non - emptiness problem",
+            1
+        ],
+        [
+            "neural pooling",
+            1
+        ],
+        [
+            "no peepholes",
+            1
+        ],
+        [
+            "natural problem",
+            1
+        ],
+        [
+            "new persian",
+            1
+        ],
+        [
+            "neural processes",
+            1
+        ]
+    ],
+    "DSL": [
+        [
+            "domain - specific language",
+            1
+        ],
+        [
+            "distributed spectrum ledger",
+            1
+        ]
+    ],
+    "CV": [
+        [
+            "cross validation",
+            1
+        ],
+        [
+            "constant velocity",
+            1
+        ],
+        [
+            "computer vision",
+            1
+        ],
+        [
+            "crowd votes",
+            1
+        ]
+    ],
+    "OT": [
+        [
+            "oblivious transfer",
+            1
+        ],
+        [
+            "optimal transport",
+            1
+        ],
+        [
+            "orthogonal training",
+            1
+        ],
+        [
+            "optimality theory",
+            1
+        ]
+    ],
+    "MPC": [
+        [
+            "multi - party computation",
+            1
+        ],
+        [
+            "model predictive control",
+            1
+        ],
+        [
+            "massively parallel computation",
+            1
+        ]
+    ],
+    "AC": [
+        [
+            "audio commons",
+            1
+        ],
+        [
+            "attack criteria",
+            1
+        ],
+        [
+            "auto - correlation",
+            1
+        ],
+        [
+            "actor - critic",
+            1
+        ],
+        [
+            "atrous convolution",
+            1
+        ],
+        [
+            "access category",
+            1
+        ],
+        [
+            "autonomic computing",
+            1
+        ],
+        [
+            "activation clustering",
+            1
+        ],
+        [
+            "admission control",
+            1
+        ],
+        [
+            "alternating current",
+            1
+        ],
+        [
+            "access categories",
+            1
+        ],
+        [
+            "avoid congestion",
+            1
+        ]
+    ],
+    "AA": [
+        [
+            "astronomy and astrophysics",
+            1
+        ],
+        [
+            "authorship attribution",
+            1
+        ],
+        [
+            "affine arithmetic",
+            1
+        ],
+        [
+            "adamic adar",
+            1
+        ]
+    ],
+    "TI": [
+        [
+            "temporal interactions",
+            1
+        ],
+        [
+            "threshold initialization",
+            1
+        ],
+        [
+            "tone injection",
+            1
+        ],
+        [
+            "temporal information",
+            1
+        ]
+    ],
+    "CIA": [
+        [
+            "confidentiality , integrity , and availability",
+            1
+        ],
+        [
+            "central intelligence agency",
+            1
+        ]
+    ],
+    "PR": [
+        [
+            "preimage resistant",
+            1
+        ],
+        [
+            "preference ratio",
+            1
+        ],
+        [
+            "patient record",
+            1
+        ],
+        [
+            "pilot reuse",
+            1
+        ],
+        [
+            "precision - recall",
+            1
+        ],
+        [
+            "perfect reconstruction",
+            1
+        ],
+        [
+            "passage retrieval",
+            1
+        ],
+        [
+            "pagerank",
+            1
+        ],
+        [
+            "perfectly reconstructible",
+            1
+        ]
+    ],
+    "CR": [
+        [
+            "collision resistant",
+            1
+        ],
+        [
+            "cognitive radio",
+            1
+        ],
+        [
+            "communication region",
+            1
+        ],
+        [
+            "containment relations",
+            1
+        ],
+        [
+            "collective rationality",
+            1
+        ],
+        [
+            "coreference resolution",
+            1
+        ],
+        [
+            "code rate",
+            1
+        ],
+        [
+            "carriage returns",
+            1
+        ],
+        [
+            "contention resolution",
+            1
+        ]
+    ],
+    "IF": [
+        [
+            "interference factor",
+            1
+        ],
+        [
+            "instantaneous frequency",
+            1
+        ],
+        [
+            "intermediate frequency",
+            1
+        ],
+        [
+            "isolation forest",
+            1
+        ]
+    ],
+    "SPA": [
+        [
+            "simple power analysis",
+            1
+        ],
+        [
+            "saturation peak analysis",
+            1
+        ],
+        [
+            "spatial preferential attachment",
+            1
+        ]
+    ],
+    "SM": [
+        [
+            "scalar multiplication",
+            1
+        ],
+        [
+            "spatial modulation",
+            1
+        ],
+        [
+            "scattering modulation",
+            1
+        ],
+        [
+            "streaming multiprocessors",
+            1
+        ],
+        [
+            "synthesis module",
+            1
+        ],
+        [
+            "stream multiprocessor",
+            1
+        ],
+        [
+            "speaker model",
+            1
+        ],
+        [
+            "supplementary material",
+            1
+        ],
+        [
+            "spectral matching",
+            1
+        ],
+        [
+            "social media",
+            1
+        ],
+        [
+            "single service manager",
+            1
+        ],
+        [
+            "service manager",
+            1
+        ],
+        [
+            "shared memory",
+            1
+        ],
+        [
+            "state machine",
+            1
+        ],
+        [
+            "system model",
+            1
+        ]
+    ],
+    "PM": [
+        [
+            "point multiplication",
+            1
+        ],
+        [
+            "polarization - multiplexed",
+            1
+        ],
+        [
+            "probabilistic model",
+            1
+        ],
+        [
+            "physical machines",
+            1
+        ],
+        [
+            "prediction model",
+            1
+        ]
+    ],
+    "RPC": [
+        [
+            "randomized projective coordinate",
+            1
+        ],
+        [
+            "remote procedure calls",
+            1
+        ]
+    ],
+    "FPM": [
+        [
+            "fixed point multiplication",
+            1
+        ],
+        [
+            "face prediction model",
+            1
+        ]
+    ],
+    "MPI": [
+        [
+            "message passing interface",
+            1
+        ],
+        [
+            "multiple parallel instances",
+            1
+        ]
+    ],
+    "GA": [
+        [
+            "global arrays",
+            1
+        ],
+        [
+            "genetic algorithm",
+            1
+        ],
+        [
+            "graduated assignment",
+            1
+        ]
+    ],
+    "LSU": [
+        [
+            "louisiana state university",
+            1
+        ],
+        [
+            "load - store unit",
+            1
+        ]
+    ],
+    "PSC": [
+        [
+            "pittsburgh supercomputing center",
+            1
+        ],
+        [
+            "partial set cover",
+            1
+        ],
+        [
+            "paper sentence classification",
+            1
+        ]
+    ],
+    "MT": [
+        [
+            "machine translation",
+            1
+        ],
+        [
+            "merkle tree",
+            1
+        ]
+    ],
+    "CS": [
+        [
+            "computer systems",
+            1
+        ],
+        [
+            "computer science",
+            1
+        ],
+        [
+            "clonal selection",
+            1
+        ],
+        [
+            "connection size",
+            1
+        ],
+        [
+            "computational science",
+            1
+        ],
+        [
+            "centralized solution",
+            1
+        ],
+        [
+            "compressive sensing",
+            1
+        ],
+        [
+            "core semantics",
+            1
+        ],
+        [
+            "coordinated scheduling",
+            1
+        ],
+        [
+            "charging station",
+            1
+        ],
+        [
+            "constraint solver",
+            1
+        ],
+        [
+            "conventional sparsity",
+            1
+        ],
+        [
+            "compressed sensing",
+            1
+        ],
+        [
+            "critical section",
+            1
+        ],
+        [
+            "common subset",
+            1
+        ],
+        [
+            "content store",
+            1
+        ],
+        [
+            "case - sensitive",
+            1
+        ],
+        [
+            "consensus score",
+            1
+        ],
+        [
+            "code - switching",
+            1
+        ],
+        [
+            "cluster - specific",
+            1
+        ]
+    ],
+    "LOS": [
+        [
+            "length of stay",
+            1
+        ],
+        [
+            "line of sight",
+            1
+        ]
+    ],
+    "RF": [
+        [
+            "random forest",
+            1
+        ],
+        [
+            "radio frequency",
+            1
+        ],
+        [
+            "regression function",
+            1
+        ],
+        [
+            "regression forest",
+            1
+        ],
+        [
+            "register file",
+            1
+        ]
+    ],
+    "HS": [
+        [
+            "hourly - similarity",
+            1
+        ],
+        [
+            "horn and schunck",
+            1
+        ],
+        [
+            "hierarchical softmax",
+            1
+        ]
+    ],
+    "VSM": [
+        [
+            "vector space model",
+            1
+        ],
+        [
+            "vacationing server model",
+            1
+        ]
+    ],
+    "CC": [
+        [
+            "charging current",
+            1
+        ],
+        [
+            "corpus callosum",
+            1
+        ],
+        [
+            "collision cone",
+            1
+        ],
+        [
+            "cross - correlation",
+            1
+        ],
+        [
+            "creative commons",
+            1
+        ],
+        [
+            "central cloud",
+            1
+        ],
+        [
+            "classifier chain",
+            1
+        ],
+        [
+            "closeness centrality",
+            1
+        ],
+        [
+            "constant charging",
+            1
+        ],
+        [
+            "cover complexity",
+            1
+        ],
+        [
+            "connected caveman",
+            1
+        ],
+        [
+            "constant current",
+            1
+        ],
+        [
+            "collaboration coefficient",
+            1
+        ],
+        [
+            "covert channels",
+            1
+        ],
+        [
+            "correlation constraints",
+            1
+        ],
+        [
+            "core connected",
+            1
+        ]
+    ],
+    "DBN": [
+        [
+            "deep belief network",
+            1
+        ],
+        [
+            "dynamic bayesian network",
+            1
+        ],
+        [
+            "directed belief net",
+            1
+        ]
+    ],
+    "DR": [
+        [
+            "dimension reduction",
+            1
+        ],
+        [
+            "demand response",
+            1
+        ],
+        [
+            "diagnosis record",
+            1
+        ],
+        [
+            "detecting repetitions",
+            1
+        ],
+        [
+            "dispersion reduction",
+            1
+        ],
+        [
+            "digit reversal",
+            1
+        ],
+        [
+            "differential rectifier",
+            1
+        ],
+        [
+            "dimensionality reduction",
+            1
+        ],
+        [
+            "document retrieval",
+            1
+        ],
+        [
+            "decoder rnn",
+            1
+        ]
+    ],
+    "EM": [
+        [
+            "expectation maximization",
+            1
+        ],
+        [
+            "exact match",
+            1
+        ],
+        [
+            "electron microscopy",
+            1
+        ]
+    ],
+    "FS": [
+        [
+            "feature selection",
+            1
+        ],
+        [
+            "frame semantic",
+            1
+        ],
+        [
+            "fraudulent services",
+            1
+        ],
+        [
+            "fully sampled",
+            1
+        ],
+        [
+            "fragment shader",
+            1
+        ]
+    ],
+    "MA": [
+        [
+            "moving average",
+            1
+        ],
+        [
+            "multiple assignment",
+            1
+        ],
+        [
+            "merlin - arthur",
+            1
+        ],
+        [
+            "mobile agent",
+            1
+        ]
+    ],
+    "PSO": [
+        [
+            "particle swarm optimization",
+            1
+        ],
+        [
+            "power system operations",
+            1
+        ]
+    ],
+    "ABC": [
+        [
+            "artificial bee colony",
+            1
+        ],
+        [
+            "absorbing boundary condition",
+            1
+        ]
+    ],
+    "MP": [
+        [
+            "message passing",
+            1
+        ],
+        [
+            "matching pursuit",
+            1
+        ],
+        [
+            "most popular",
+            1
+        ],
+        [
+            "max pooling",
+            1
+        ],
+        [
+            "mean precision",
+            1
+        ],
+        [
+            "mask pyramid",
+            1
+        ]
+    ],
+    "BM": [
+        [
+            "bare metal",
+            1
+        ],
+        [
+            "black males",
+            1
+        ]
+    ],
+    "VM": [
+        [
+            "virtual machine",
+            1
+        ],
+        [
+            "visual module",
+            1
+        ],
+        [
+            "von mises",
+            1
+        ]
+    ],
+    "BEA": [
+        [
+            "building educational applications",
+            1
+        ],
+        [
+            "bond energy algorithm",
+            1
+        ]
+    ],
+    "MMD": [
+        [
+            "maximum mean discrepancy",
+            1
+        ],
+        [
+            "minimizes marginal distribution",
+            1
+        ]
+    ],
+    "FC": [
+        [
+            "fully connected",
+            1
+        ],
+        [
+            "fusion center",
+            1
+        ],
+        [
+            "fixed confidence",
+            1
+        ],
+        [
+            "filter controls",
+            1
+        ],
+        [
+            "frame content",
+            1
+        ],
+        [
+            "fashion compatibility",
+            1
+        ],
+        [
+            "fiscal code",
+            1
+        ]
+    ],
+    "FP": [
+        [
+            "function processor",
+            1
+        ],
+        [
+            "false positive",
+            1
+        ],
+        [
+            "frequency partitioning",
+            1
+        ],
+        [
+            "floating point",
+            1
+        ],
+        [
+            "failure prediction",
+            1
+        ],
+        [
+            "fixed point",
+            1
+        ]
+    ],
+    "SDR": [
+        [
+            "software defined radio",
+            1
+        ],
+        [
+            "semidefine relaxation",
+            1
+        ],
+        [
+            "structured domain randomization",
+            1
+        ]
+    ],
+    "BO": [
+        [
+            "backoff",
+            1
+        ],
+        [
+            "bayesian optimisation",
+            1
+        ]
+    ],
+    "EL": [
+        [
+            "euler - lagrange",
+            1
+        ],
+        [
+            "entity linking",
+            1
+        ],
+        [
+            "edge length",
+            1
+        ],
+        [
+            "episode length",
+            1
+        ],
+        [
+            "external links",
+            1
+        ]
+    ],
+    "LSB": [
+        [
+            "least squares boosting",
+            1
+        ],
+        [
+            "least significant bit",
+            1
+        ]
+    ],
+    "FIM": [
+        [
+            "fisher information matrix",
+            1
+        ],
+        [
+            "fragment identifier messaging",
+            1
+        ],
+        [
+            "fast iterative method",
+            1
+        ]
+    ],
+    "DF": [
+        [
+            "direction facilities",
+            1
+        ],
+        [
+            "dominating frequencies",
+            1
+        ]
+    ],
+    "ACL": [
+        [
+            "agent communication language",
+            1
+        ],
+        [
+            "access control list",
+            1
+        ]
+    ],
+    "ARC": [
+        [
+            "australian research council",
+            1
+        ],
+        [
+            "adaptive - robust control",
+            1
+        ]
+    ],
+    "SAR": [
+        [
+            "synthetic aperture radar",
+            1
+        ],
+        [
+            "socially assistive robots",
+            1
+        ],
+        [
+            "search and rescue",
+            1
+        ],
+        [
+            "sensing application recently",
+            1
+        ]
+    ],
+    "OSI": [
+        [
+            "open systems interconnection",
+            1
+        ],
+        [
+            "open source initiative",
+            1
+        ]
+    ],
+    "RLC": [
+        [
+            "random linear coding",
+            1
+        ],
+        [
+            "radio link control",
+            1
+        ]
+    ],
+    "RS": [
+        [
+            "running sum",
+            1
+        ],
+        [
+            "residual splash",
+            1
+        ],
+        [
+            "rate - selective",
+            1
+        ],
+        [
+            "relay station",
+            1
+        ],
+        [
+            "random search",
+            1
+        ],
+        [
+            "remote sensing",
+            1
+        ],
+        [
+            "recommender systems",
+            1
+        ],
+        [
+            "rate splitting",
+            1
+        ],
+        [
+            "randomly sampled",
+            1
+        ],
+        [
+            "random split",
+            1
+        ],
+        [
+            "rate saturation",
+            1
+        ],
+        [
+            "real satellite",
+            1
+        ]
+    ],
+    "NN": [
+        [
+            "neural network",
+            1
+        ],
+        [
+            "nearest neighbor",
+            1
+        ]
+    ],
+    "NB": [
+        [
+            "negative binomial",
+            1
+        ],
+        [
+            "naive bayes",
+            1
+        ],
+        [
+            "new brunswick",
+            1
+        ]
+    ],
+    "HOS": [
+        [
+            "higher - order spectra",
+            1
+        ],
+        [
+            "higher order statistics",
+            1
+        ]
+    ],
+    "SA": [
+        [
+            "structural accuracy",
+            1
+        ],
+        [
+            "single architecture",
+            1
+        ],
+        [
+            "stacked autoencoders",
+            1
+        ],
+        [
+            "simulated annealing",
+            1
+        ],
+        [
+            "signal analysis",
+            1
+        ],
+        [
+            "sensitivity analysis",
+            1
+        ],
+        [
+            "strongly adaptive",
+            1
+        ],
+        [
+            "sensing antennas",
+            1
+        ],
+        [
+            "significance and accuracy",
+            1
+        ],
+        [
+            "satisfies aass",
+            1
+        ],
+        [
+            "situational awareness",
+            1
+        ],
+        [
+            "subspace alignment",
+            1
+        ],
+        [
+            "steepest ascent",
+            1
+        ],
+        [
+            "scores anatomical",
+            1
+        ],
+        [
+            "string analysis",
+            1
+        ]
+    ],
+    "EI": [
+        [
+            "expected improvement",
+            1
+        ],
+        [
+            "epidemic intelligence",
+            1
+        ],
+        [
+            "event interaction",
+            1
+        ]
+    ],
+    "MCC": [
+        [
+            "matthews correlation coefficient",
+            1
+        ],
+        [
+            "minimum coefficient correlation",
+            1
+        ],
+        [
+            "mobile cloud computing",
+            1
+        ],
+        [
+            "mesoscale cellular convection",
+            1
+        ],
+        [
+            "maximal connected component",
+            1
+        ]
+    ],
+    "ROC": [
+        [
+            "receiver operating characteristic",
+            1
+        ],
+        [
+            "restricted orthogonal constants",
+            1
+        ]
+    ],
+    "NBC": [
+        [
+            "naive bayes classifier",
+            1
+        ],
+        [
+            "non - parametric bayesian classification",
+            1
+        ]
+    ],
+    "SK": [
+        [
+            "string kernel",
+            1
+        ],
+        [
+            "septic shock",
+            1
+        ]
+    ],
+    "MTL": [
+        [
+            "medial temporal lobe",
+            1
+        ],
+        [
+            "multi - task learning",
+            1
+        ]
+    ],
+    "IL": [
+        [
+            "imitation learning",
+            1
+        ],
+        [
+            "intermediate level",
+            1
+        ]
+    ],
+    "DMP": [
+        [
+            "dynamic movement primitives",
+            1
+        ],
+        [
+            "digital motion processor",
+            1
+        ]
+    ],
+    "GCP": [
+        [
+            "graph compression problem",
+            1
+        ],
+        [
+            "grid connection point",
+            1
+        ]
+    ],
+    "IP": [
+        [
+            "intellectual property",
+            1
+        ],
+        [
+            "internet protocol",
+            1
+        ],
+        [
+            "inductive programming",
+            1
+        ],
+        [
+            "inverse proportion",
+            1
+        ],
+        [
+            "intercept probability",
+            1
+        ],
+        [
+            "image preprocessing",
+            1
+        ],
+        [
+            "integer programming",
+            1
+        ]
+    ],
+    "TLS": [
+        [
+            "transport layer security",
+            1
+        ],
+        [
+            "terrestrial laser scanning",
+            1
+        ]
+    ],
+    "PAD": [
+        [
+            "probe attempt detector",
+            1
+        ],
+        [
+            "presentation attack detection",
+            1
+        ]
+    ],
+    "ASM": [
+        [
+            "active shape model",
+            1
+        ],
+        [
+            "alphabet set multiplier",
+            1
+        ]
+    ],
+    "DMD": [
+        [
+            "dynamic mirror descent",
+            1
+        ],
+        [
+            "digital micro - mirror device",
+            1
+        ],
+        [
+            "deficient mapping dissolution",
+            1
+        ]
+    ],
+    "EMA": [
+        [
+            "exponential moving average",
+            1
+        ],
+        [
+            "ecological momentary assessment",
+            1
+        ]
+    ],
+    "MAPE": [
+        [
+            "mean absolute percentage error",
+            1
+        ],
+        [
+            "mean average percent error",
+            1
+        ]
+    ],
+    "MAP": [
+        [
+            "maximum a posteriori",
+            1
+        ],
+        [
+            "mean average precision",
+            1
+        ]
+    ],
+    "DN": [
+        [
+            "distinguished name",
+            1
+        ],
+        [
+            "destination node",
+            1
+        ]
+    ],
+    "PCC": [
+        [
+            "pre - activation convolutional cell(the",
+            1
+        ],
+        [
+            "pearson correlation coefficient",
+            1
+        ]
+    ],
+    "AL": [
+        [
+            "adversarial loss",
+            1
+        ],
+        [
+            "active learning",
+            1
+        ]
+    ],
+    "US": [
+        [
+            "ultrasound",
+            1
+        ],
+        [
+            "united states",
+            1
+        ],
+        [
+            "uncertainty sampling",
+            1
+        ]
+    ],
+    "MR": [
+        [
+            "magnetic resonance",
+            1
+        ],
+        [
+            "minimum read",
+            1
+        ],
+        [
+            "majority rule",
+            1
+        ],
+        [
+            "model risk",
+            1
+        ],
+        [
+            "middle resolution",
+            1
+        ],
+        [
+            "mean recall",
+            1
+        ],
+        [
+            "machine reading",
+            1
+        ],
+        [
+            "meaning representation",
+            1
+        ],
+        [
+            "morphological richness",
+            1
+        ],
+        [
+            "mixed reality",
+            1
+        ]
+    ],
+    "HR": [
+        [
+            "high - resolution",
+            1
+        ],
+        [
+            "heart rate",
+            1
+        ]
+    ],
+    "IS": [
+        [
+            "inception score",
+            1
+        ],
+        [
+            "importance sampling",
+            1
+        ],
+        [
+            "information systems",
+            1
+        ]
+    ],
+    "LDP": [
+        [
+            "large deviation principle",
+            1
+        ],
+        [
+            "low degeneracy partition",
+            1
+        ],
+        [
+            "local differential privacy",
+            1
+        ]
+    ],
+    "ACE": [
+        [
+            "average causal effect",
+            1
+        ],
+        [
+            "advanced combined encoder",
+            1
+        ],
+        [
+            "average coverage error",
+            1
+        ]
+    ],
+    "OPS": [
+        [
+            "orthogonal pilot sequences",
+            1
+        ],
+        [
+            "one posterior sample",
+            1
+        ]
+    ],
+    "MDS": [
+        [
+            "maximum distance separable",
+            1
+        ],
+        [
+            "minimum dominating set",
+            1
+        ],
+        [
+            "multi - dimensional scaling",
+            1
+        ]
+    ],
+    "IPS": [
+        [
+            "intrusion prevention system",
+            1
+        ],
+        [
+            "inverse propensity scaling",
+            1
+        ],
+        [
+            "interactive proof systems",
+            1
+        ]
+    ],
+    "BMS": [
+        [
+            "building management system",
+            1
+        ],
+        [
+            "battery management system",
+            1
+        ]
+    ],
+    "PP": [
+        [
+            "prepositional phrase",
+            1
+        ],
+        [
+            "point process",
+            1
+        ],
+        [
+            "pairwise product",
+            1
+        ],
+        [
+            "pairwise perturbation",
+            1
+        ],
+        [
+            "privacy preferences",
+            1
+        ],
+        [
+            "present and predominant",
+            1
+        ]
+    ],
+    "PF": [
+        [
+            "particle filter",
+            1
+        ],
+        [
+            "pareto - fair",
+            1
+        ],
+        [
+            "propagation fusion",
+            1
+        ],
+        [
+            "power flow",
+            1
+        ],
+        [
+            "poloidal field",
+            1
+        ]
+    ],
+    "NF": [
+        [
+            "naive fusion",
+            1
+        ],
+        [
+            "noise figure",
+            1
+        ],
+        [
+            "new foundations",
+            1
+        ]
+    ],
+    "TAM": [
+        [
+            "technology acceptance model",
+            1
+        ],
+        [
+            "transparent attention model",
+            1
+        ]
+    ],
+    "DFT": [
+        [
+            "density functional theory",
+            1
+        ],
+        [
+            "discrete fourier transformation",
+            1
+        ],
+        [
+            "disk failure tolerant",
+            1
+        ],
+        [
+            "design - for - test",
+            1
+        ]
+    ],
+    "CKD": [
+        [
+            "conditional kernel density",
+            1
+        ],
+        [
+            "child key derivation",
+            1
+        ],
+        [
+            "chronic kidney disease",
+            1
+        ]
+    ],
+    "AR": [
+        [
+            "auto - regression",
+            1
+        ],
+        [
+            "average recall",
+            1
+        ],
+        [
+            "anaphora resolution",
+            1
+        ],
+        [
+            "augmented reality",
+            1
+        ],
+        [
+            "accumulated reward",
+            1
+        ]
+    ],
+    "CSPs": [
+        [
+            "cloud service providers",
+            1
+        ],
+        [
+            "constraint satisfaction problems",
+            1
+        ]
+    ],
+    "CAP": [
+        [
+            "consistency availability partition",
+            1
+        ],
+        [
+            "cumulative accuracy profit",
+            1
+        ],
+        [
+            "carrier - less amplitude and phase",
+            1
+        ]
+    ],
+    "DSM": [
+        [
+            "data store module",
+            1
+        ],
+        [
+            "data stream manager",
+            1
+        ],
+        [
+            "demand side management",
+            1
+        ],
+        [
+            "distributional semantic model",
+            1
+        ],
+        [
+            "digital surface model",
+            1
+        ]
+    ],
+    "CAS": [
+        [
+            "content addressed storage",
+            1
+        ],
+        [
+            "computer algebra systems",
+            1
+        ],
+        [
+            "consensus attention sum",
+            1
+        ]
+    ],
+    "PD": [
+        [
+            "progressive disease",
+            1
+        ],
+        [
+            "prisoner 's dilemma",
+            1
+        ],
+        [
+            "pu - primary destination",
+            1
+        ],
+        [
+            "positive definite",
+            1
+        ],
+        [
+            "parkinson 's disease",
+            1
+        ],
+        [
+            "pixel discussion",
+            1
+        ]
+    ],
+    "PPMI": [
+        [
+            "parkinson 's progression markers initiative",
+            1
+        ],
+        [
+            "positive pointwise mutual information",
+            1
+        ]
+    ],
+    "EHRs": [
+        [
+            "electronic health records",
+            1
+        ],
+        [
+            "energy harvesting receivers",
+            1
+        ]
+    ],
+    "LCP": [
+        [
+            "linear complementarity problem",
+            1
+        ],
+        [
+            "locally compact polish",
+            1
+        ],
+        [
+            "longest common prefix",
+            1
+        ],
+        [
+            "linearly compressed page",
+            1
+        ]
+    ],
+    "SD": [
+        [
+            "strong dominance",
+            1
+        ],
+        [
+            "secure digital",
+            1
+        ],
+        [
+            "standard deviation",
+            1
+        ],
+        [
+            "strategic dependency",
+            1
+        ],
+        [
+            "soft decision",
+            1
+        ],
+        [
+            "symbolic differentiation",
+            1
+        ],
+        [
+            "sphere decoding",
+            1
+        ],
+        [
+            "selection diversity",
+            1
+        ],
+        [
+            "stochastically dominate",
+            1
+        ],
+        [
+            "structural diagram",
+            1
+        ]
+    ],
+    "GVF": [
+        [
+            "generalized value function",
+            1
+        ],
+        [
+            "gradient vector flow",
+            1
+        ]
+    ],
+    "ASA": [
+        [
+            "adaptive segmentation algorithm",
+            1
+        ],
+        [
+            "accessible surface area",
+            1
+        ]
+    ],
+    "GMM": [
+        [
+            "gaussian mixture model",
+            1
+        ],
+        [
+            "group marching method",
+            1
+        ]
+    ],
+    "MD": [
+        [
+            "molecular dynamics",
+            1
+        ],
+        [
+            "morphological disambiguation",
+            1
+        ],
+        [
+            "mixed decoding",
+            1
+        ],
+        [
+            "model distillation",
+            1
+        ],
+        [
+            "memoryless deterministic",
+            1
+        ],
+        [
+            "mean diffusivity",
+            1
+        ],
+        [
+            "massa de dados",
+            1
+        ],
+        [
+            "multiple description",
+            1
+        ],
+        [
+            "missed detection",
+            1
+        ]
+    ],
+    "LP": [
+        [
+            "linear programming",
+            1
+        ],
+        [
+            "label powerset",
+            1
+        ],
+        [
+            "label propagation",
+            1
+        ]
+    ],
+    "CPM": [
+        [
+            "critical path method",
+            1
+        ],
+        [
+            "competition performance metric",
+            1
+        ],
+        [
+            "completely positive maps",
+            1
+        ],
+        [
+            "clique percolation method",
+            1
+        ],
+        [
+            "continuous profile model",
+            1
+        ],
+        [
+            "cost per mille",
+            1
+        ]
+    ],
+    "HD": [
+        [
+            "hausdorff distance",
+            1
+        ],
+        [
+            "high definition",
+            1
+        ],
+        [
+            "hard decision",
+            1
+        ],
+        [
+            "harmonic distortion",
+            1
+        ],
+        [
+            "huntington 's disease",
+            1
+        ]
+    ],
+    "LD": [
+        [
+            "levenshtein distance",
+            1
+        ],
+        [
+            "line difference",
+            1
+        ],
+        [
+            "loads data",
+            1
+        ],
+        [
+            "large deviation",
+            1
+        ],
+        [
+            "link density",
+            1
+        ]
+    ],
+    "ST": [
+        [
+            "stomach",
+            1
+        ],
+        [
+            "split - turnip",
+            1
+        ],
+        [
+            "sleep telemetry",
+            1
+        ],
+        [
+            "semantic tagging",
+            1
+        ],
+        [
+            "single trails",
+            1
+        ],
+        [
+            "smart thermostat",
+            1
+        ],
+        [
+            "steiner tree",
+            1
+        ]
+    ],
+    "RK": [
+        [
+            "right kidney",
+            1
+        ],
+        [
+            "root key",
+            1
+        ]
+    ],
+    "RDM": [
+        [
+            "russian dolls model",
+            1
+        ],
+        [
+            "representational dissimilarity matrix",
+            1
+        ]
+    ],
+    "NEB": [
+        [
+            "nudged elastic band",
+            1
+        ],
+        [
+            "next event backtracking",
+            1
+        ]
+    ],
+    "CF": [
+        [
+            "collaborative filtering",
+            1
+        ],
+        [
+            "crest factor",
+            1
+        ],
+        [
+            "code - mixed factor",
+            1
+        ],
+        [
+            "complexity factor",
+            1
+        ],
+        [
+            "correlation filter",
+            1
+        ]
+    ],
+    "CTR": [
+        [
+            "click through rates",
+            1
+        ],
+        [
+            "collaborative topic regression",
+            1
+        ],
+        [
+            "character transfer rate",
+            1
+        ]
+    ],
+    "MF": [
+        [
+            "matrix factorization",
+            1
+        ],
+        [
+            "model fair",
+            1
+        ],
+        [
+            "membership function",
+            1
+        ],
+        [
+            "model - free",
+            1
+        ]
+    ],
+    "ET": [
+        [
+            "energy transmitters",
+            1
+        ],
+        [
+            "evidence theory",
+            1
+        ],
+        [
+            "enhancing tumor",
+            1
+        ],
+        [
+            "elastic transformations",
+            1
+        ],
+        [
+            "emission tomography",
+            1
+        ]
+    ],
+    "ANN": [
+        [
+            "approximate nearest neighbor",
+            1
+        ],
+        [
+            "artificial neural network",
+            1
+        ]
+    ],
+    "AI": [
+        [
+            "artificial intelligence",
+            1
+        ],
+        [
+            "article influence",
+            1
+        ]
+    ],
+    "DPI": [
+        [
+            "deep packet inspection",
+            1
+        ],
+        [
+            "data processing inequality",
+            1
+        ]
+    ],
+    "LR": [
+        [
+            "logistic regression",
+            1
+        ],
+        [
+            "learning rate",
+            1
+        ],
+        [
+            "linear regression",
+            1
+        ],
+        [
+            "low resolution",
+            1
+        ],
+        [
+            "lp relaxation",
+            1
+        ],
+        [
+            "low rank",
+            1
+        ]
+    ],
+    "TPR": [
+        [
+            "true positive rate",
+            1
+        ],
+        [
+            "tensor product representation",
+            1
+        ]
+    ],
+    "RR": [
+        [
+            "round robin",
+            1
+        ],
+        [
+            "recurrent refinement",
+            1
+        ],
+        [
+            "relevance rate",
+            1
+        ],
+        [
+            "relative ranking",
+            1
+        ],
+        [
+            "reverse reachable",
+            1
+        ]
+    ],
+    "LM": [
+        [
+            "language model",
+            1
+        ],
+        [
+            "logarithmically scaled magnitude",
+            1
+        ],
+        [
+            "lagrange multiplier method",
+            1
+        ],
+        [
+            "levenberg macquardt",
+            1
+        ]
+    ],
+    "OS": [
+        [
+            "overlap success",
+            1
+        ],
+        [
+            "output stride",
+            1
+        ],
+        [
+            "orientation score",
+            1
+        ],
+        [
+            "operating system",
+            1
+        ]
+    ],
+    "SRC": [
+        [
+            "sdn ran controller",
+            1
+        ],
+        [
+            "spearsman 's rank correlation",
+            1
+        ],
+        [
+            "sparse representation classification",
+            1
+        ]
+    ],
+    "LTE": [
+        [
+            "long term evolution",
+            1
+        ],
+        [
+            "language transmission engine",
+            1
+        ]
+    ],
+    "HN": [
+        [
+            "heterogeneous network",
+            1
+        ],
+        [
+            "hierarchical network",
+            1
+        ]
+    ],
+    "PI": [
+        [
+            "prediction intervals",
+            1
+        ],
+        [
+            "provider independent",
+            1
+        ],
+        [
+            "power iteration",
+            1
+        ],
+        [
+            "purchase intention",
+            1
+        ]
+    ],
+    "PNN": [
+        [
+            "probabilistic neural network",
+            1
+        ],
+        [
+            "product - based neural network",
+            1
+        ],
+        [
+            "progressive neural networks",
+            1
+        ]
+    ],
+    "RDF": [
+        [
+            "resource description framework",
+            1
+        ],
+        [
+            "rate distortion function",
+            1
+        ],
+        [
+            "random decision forests",
+            1
+        ]
+    ],
+    "GDP": [
+        [
+            "gross domestic product",
+            1
+        ],
+        [
+            "generalized differential privacy",
+            1
+        ],
+        [
+            "good distribution practice",
+            1
+        ]
+    ],
+    "SO": [
+        [
+            "smart object",
+            1
+        ],
+        [
+            "stack overflow",
+            1
+        ],
+        [
+            "surrogate outcomes",
+            1
+        ]
+    ],
+    "SMP": [
+        [
+            "security management provider",
+            1
+        ],
+        [
+            "symmetric multi processor",
+            1
+        ],
+        [
+            "stable marriage problem",
+            1
+        ]
+    ],
+    "DC": [
+        [
+            "distributed control",
+            1
+        ],
+        [
+            "dublin core",
+            1
+        ],
+        [
+            "direct current",
+            1
+        ],
+        [
+            "dual connectivity",
+            1
+        ],
+        [
+            "disorder constraints",
+            1
+        ],
+        [
+            "disconnected components",
+            1
+        ],
+        [
+            "direct click",
+            1
+        ],
+        [
+            "descriptive complexity",
+            1
+        ],
+        [
+            "data consistency",
+            1
+        ],
+        [
+            "datacenter",
+            1
+        ],
+        [
+            "dice coefficient",
+            1
+        ],
+        [
+            "deep convolutional",
+            1
+        ],
+        [
+            "deficit counter",
+            1
+        ],
+        [
+            "dynamic cluster",
+            1
+        ]
+    ],
+    "ADP": [
+        [
+            "approximate dynamic programming",
+            1
+        ],
+        [
+            "absolute derivative privacy",
+            1
+        ]
+    ],
+    "ES": [
+        [
+            "energy storage",
+            1
+        ],
+        [
+            "end systolic",
+            1
+        ],
+        [
+            "evolutionary strategies",
+            1
+        ],
+        [
+            "encrypted sharing",
+            1
+        ],
+        [
+            "event synchronization",
+            1
+        ],
+        [
+            "enterprise storage",
+            1
+        ],
+        [
+            "entropy search",
+            1
+        ],
+        [
+            "elevation angle spread",
+            1
+        ],
+        [
+            "exhaustive search",
+            1
+        ],
+        [
+            "external search",
+            1
+        ],
+        [
+            "embedding weight sharing",
+            1
+        ]
+    ],
+    "TR": [
+        [
+            "temporal resolution",
+            1
+        ],
+        [
+            "tone reservation",
+            1
+        ]
+    ],
+    "AOD": [
+        [
+            "average outage duration",
+            1
+        ],
+        [
+            "angle opening distance",
+            1
+        ]
+    ],
+    "AM": [
+        [
+            "arithmetic mean",
+            1
+        ],
+        [
+            "activation maximization",
+            1
+        ],
+        [
+            "alternating minimization",
+            1
+        ]
+    ],
+    "QP": [
+        [
+            "quadratic programming",
+            1
+        ],
+        [
+            "quantum pareto",
+            1
+        ],
+        [
+            "quantisation parameter",
+            1
+        ]
+    ],
+    "TCP": [
+        [
+            "test case prioritization",
+            1
+        ],
+        [
+            "top concept 's popularity",
+            1
+        ],
+        [
+            "transductive conformal prediction",
+            1
+        ],
+        [
+            "transmission control protocol",
+            1
+        ]
+    ],
+    "SDD": [
+        [
+            "stanford drone dataset",
+            1
+        ],
+        [
+            "standard desktop display",
+            1
+        ]
+    ],
+    "VAT": [
+        [
+            "virtual adversarial training",
+            1
+        ],
+        [
+            "visceral adipose tissue",
+            1
+        ]
+    ],
+    "GP": [
+        [
+            "gaussian process",
+            1
+        ],
+        [
+            "geometric programming",
+            1
+        ]
+    ],
+    "SAD": [
+        [
+            "spectral angle distance",
+            1
+        ],
+        [
+            "speech activity detection",
+            1
+        ]
+    ],
+    "OI": [
+        [
+            "original images",
+            1
+        ],
+        [
+            "operational intensity",
+            1
+        ]
+    ],
+    "SR": [
+        [
+            "stacked refinement",
+            1
+        ],
+        [
+            "secrecy rate",
+            1
+        ],
+        [
+            "segment representation",
+            1
+        ],
+        [
+            "spatial resolution",
+            1
+        ],
+        [
+            "success rate",
+            1
+        ],
+        [
+            "super resolution",
+            1
+        ],
+        [
+            "speech recognition",
+            1
+        ],
+        [
+            "small resolution",
+            1
+        ],
+        [
+            "strategic rationale",
+            1
+        ],
+        [
+            "systematic review",
+            1
+        ]
+    ],
+    "SSA": [
+        [
+            "space situational awareness",
+            1
+        ],
+        [
+            "static single assignment",
+            1
+        ]
+    ],
+    "SPL": [
+        [
+            "sound pressure level",
+            1
+        ],
+        [
+            "shortest path length",
+            1
+        ],
+        [
+            "standard plane location",
+            1
+        ]
+    ],
+    "TP": [
+        [
+            "true positives",
+            1
+        ],
+        [
+            "temporal pooler",
+            1
+        ]
+    ],
+    "FN": [
+        [
+            "false negatives",
+            1
+        ],
+        [
+            "focusing network",
+            1
+        ]
+    ],
+    "TN": [
+        [
+            "true negative",
+            1
+        ],
+        [
+            "total noise",
+            1
+        ]
+    ],
+    "AP": [
+        [
+            "average precision",
+            1
+        ],
+        [
+            "access point",
+            1
+        ],
+        [
+            "asymptotic preserving",
+            1
+        ],
+        [
+            "associated press",
+            1
+        ],
+        [
+            "acute pancreatitis",
+            1
+        ],
+        [
+            "access part",
+            1
+        ],
+        [
+            "affinity propagation",
+            1
+        ]
+    ],
+    "DE": [
+        [
+            "dimension estimation",
+            1
+        ],
+        [
+            "differential evolution",
+            1
+        ],
+        [
+            "dataexplorer",
+            1
+        ],
+        [
+            "deterministic equivalent",
+            1
+        ],
+        [
+            "data efficiency",
+            1
+        ]
+    ],
+    "PAM": [
+        [
+            "partitioning around medoid",
+            1
+        ],
+        [
+            "passive acoustic monitoring",
+            1
+        ],
+        [
+            "pulse amplitude modulation",
+            1
+        ]
+    ],
+    "MGM": [
+        [
+            "markov geographic model",
+            1
+        ],
+        [
+            "manifold geometry matching",
+            1
+        ]
+    ],
+    "ASR": [
+        [
+            "automatic speech recognition",
+            1
+        ],
+        [
+            "average sum rate",
+            1
+        ]
+    ],
+    "DL": [
+        [
+            "description length",
+            1
+        ],
+        [
+            "deep learning",
+            1
+        ],
+        [
+            "dice loss",
+            1
+        ],
+        [
+            "description logics",
+            1
+        ],
+        [
+            "downlink",
+            1
+        ],
+        [
+            "distributed ledger",
+            1
+        ],
+        [
+            "depth loss",
+            1
+        ],
+        [
+            "dogleg",
+            1
+        ]
+    ],
+    "CFG": [
+        [
+            "context free grammar",
+            1
+        ],
+        [
+            "control flow graph",
+            1
+        ]
+    ],
+    "CP": [
+        [
+            "constraint programming",
+            1
+        ],
+        [
+            "cyclic prefic",
+            1
+        ],
+        [
+            "clustered placement",
+            1
+        ],
+        [
+            "central processor",
+            1
+        ],
+        [
+            "canonical polyadic",
+            1
+        ],
+        [
+            "completely positive",
+            1
+        ],
+        [
+            "constraint problem",
+            1
+        ],
+        [
+            "control program",
+            1
+        ],
+        [
+            "candecomp / parafac",
+            1
+        ],
+        [
+            "conformal prediction",
+            1
+        ],
+        [
+            "core periphery",
+            1
+        ]
+    ],
+    "LS": [
+        [
+            "local search",
+            1
+        ],
+        [
+            "least squares",
+            1
+        ],
+        [
+            "logarithmically spaced",
+            1
+        ],
+        [
+            "linear systemswe",
+            1
+        ],
+        [
+            "location service",
+            1
+        ]
+    ],
+    "DP": [
+        [
+            "dynamic programming",
+            1
+        ],
+        [
+            "distance precision",
+            1
+        ],
+        [
+            "declustered placement",
+            1
+        ],
+        [
+            "dirichlet process",
+            1
+        ],
+        [
+            "drift - plus penalty",
+            1
+        ],
+        [
+            "dropped pronoun",
+            1
+        ],
+        [
+            "direct proportion",
+            1
+        ],
+        [
+            "differential privacy",
+            1
+        ],
+        [
+            "disjunctive programming",
+            1
+        ],
+        [
+            "dronemap planner",
+            1
+        ]
+    ],
+    "CLP": [
+        [
+            "convergence layer protocol",
+            1
+        ],
+        [
+            "coin - or linear program solver",
+            1
+        ]
+    ],
+    "SAC": [
+        [
+            "special airworthiness certificate",
+            1
+        ],
+        [
+            "soft actor critic",
+            1
+        ]
+    ],
+    "HAP": [
+        [
+            "high altitude platform",
+            1
+        ],
+        [
+            "hybrid access point",
+            1
+        ]
+    ],
+    "MSC": [
+        [
+            "multi - layer same - resolution compressed",
+            1
+        ],
+        [
+            "mobile switching center",
+            1
+        ]
+    ],
+    "CRM": [
+        [
+            "channel reliability measurement",
+            1
+        ],
+        [
+            "counterfactual risk minimization",
+            1
+        ]
+    ],
+    "LDOF": [
+        [
+            "large displacement optical flow",
+            1
+        ],
+        [
+            "local distance - based outlier factor",
+            1
+        ]
+    ],
+    "BA": [
+        [
+            "black and anandan",
+            1
+        ],
+        [
+            "binary agreement",
+            1
+        ],
+        [
+            "barabasi albert",
+            1
+        ],
+        [
+            "bundle adjustment",
+            1
+        ],
+        [
+            "balanced accuracy",
+            1
+        ],
+        [
+            "bee algorithm",
+            1
+        ]
+    ],
+    "MS": [
+        [
+            "modelling simulation",
+            1
+        ],
+        [
+            "multiple sclerosis",
+            1
+        ],
+        [
+            "mean shift",
+            1
+        ],
+        [
+            "missed speech",
+            1
+        ],
+        [
+            "main - sequence",
+            1
+        ],
+        [
+            "mid stance",
+            1
+        ],
+        [
+            "mobile station",
+            1
+        ],
+        [
+            "medical sentiment",
+            1
+        ]
+    ],
+    "SDP": [
+        [
+            "shortest dependency path",
+            1
+        ],
+        [
+            "semi - definite programming",
+            1
+        ],
+        [
+            "stable dependencies principle",
+            1
+        ]
+    ],
+    "LMF": [
+        [
+            "low - rank multimodal fusion",
+            1
+        ],
+        [
+            "lower membership function",
+            1
+        ]
+    ],
+    "GAP": [
+        [
+            "global average pooling",
+            1
+        ],
+        [
+            "generative adversarial perturbations",
+            1
+        ],
+        [
+            "generalized assignment problem",
+            1
+        ],
+        [
+            "global average precision",
+            1
+        ]
+    ],
+    "BPM": [
+        [
+            "beat per minute",
+            1
+        ],
+        [
+            "business process modelling",
+            1
+        ]
+    ],
+    "BD": [
+        [
+            "bias disparities",
+            1
+        ],
+        [
+            "bjontegaard delta",
+            1
+        ],
+        [
+            "block diagonalization",
+            1
+        ],
+        [
+            "benders decomposition",
+            1
+        ]
+    ],
+    "QA": [
+        [
+            "question answering",
+            1
+        ],
+        [
+            "quantum annealing",
+            1
+        ]
+    ],
+    "CCC": [
+        [
+            "concordance correlation coefficient",
+            1
+        ],
+        [
+            "congruence coefficient correlation",
+            1
+        ]
+    ],
+    "RC": [
+        [
+            "rich club",
+            1
+        ],
+        [
+            "radon consistency",
+            1
+        ],
+        [
+            "reading comprehension",
+            1
+        ],
+        [
+            "relation classification",
+            1
+        ],
+        [
+            "remote control",
+            1
+        ],
+        [
+            "resource control",
+            1
+        ],
+        [
+            "recurrent convolution",
+            1
+        ],
+        [
+            "radio control",
+            1
+        ],
+        [
+            "rate constrained",
+            1
+        ],
+        [
+            "red clump",
+            1
+        ],
+        [
+            "reservoir computing",
+            1
+        ]
+    ],
+    "CI": [
+        [
+            "current iteration",
+            1
+        ],
+        [
+            "confidence intervals",
+            1
+        ],
+        [
+            "constructive interference",
+            1
+        ],
+        [
+            "class imbalance",
+            1
+        ],
+        [
+            "conditional independence",
+            1
+        ],
+        [
+            "current instruction",
+            1
+        ],
+        [
+            "cochlear implant",
+            1
+        ],
+        [
+            "continuous integration",
+            1
+        ],
+        [
+            "computational intelligence",
+            1
+        ]
+    ],
+    "SOA": [
+        [
+            "stimulus onset asynchrony",
+            1
+        ],
+        [
+            "service oriented architecture",
+            1
+        ]
+    ],
+    "MAT": [
+        [
+            "medication assisted treatment",
+            1
+        ],
+        [
+            "motionless analysis of traffic",
+            1
+        ],
+        [
+            "multi - fingered adaptive tactile grasping",
+            1
+        ]
+    ],
+    "MSD": [
+        [
+            "million song dataset",
+            1
+        ],
+        [
+            "modified list sphere decoding",
+            1
+        ],
+        [
+            "most significant digit",
+            1
+        ]
+    ],
+    "GBM": [
+        [
+            "geometric brownian motion",
+            1
+        ],
+        [
+            "gradient boosting machine",
+            1
+        ]
+    ],
+    "AS": [
+        [
+            "autonomous system",
+            1
+        ],
+        [
+            "angular spread",
+            1
+        ],
+        [
+            "adaptive softmax",
+            1
+        ],
+        [
+            "ancillary service",
+            1
+        ],
+        [
+            "azimuth angle spread",
+            1
+        ],
+        [
+            "attention sum",
+            1
+        ],
+        [
+            "antenna spacing",
+            1
+        ]
+    ],
+    "TD": [
+        [
+            "total difficulty",
+            1
+        ],
+        [
+            "time - discrete",
+            1
+        ],
+        [
+            "technical debt",
+            1
+        ],
+        [
+            "temporal difference",
+            1
+        ],
+        [
+            "temporal dimension",
+            1
+        ],
+        [
+            "training data",
+            1
+        ],
+        [
+            "target dependent",
+            1
+        ],
+        [
+            "top - down",
+            1
+        ],
+        [
+            "time - domain",
+            1
+        ]
+    ],
+    "CPI": [
+        [
+            "consumer price index",
+            1
+        ],
+        [
+            "conditional predictive impact",
+            1
+        ]
+    ],
+    "RN": [
+        [
+            "relational neighbors",
+            1
+        ],
+        [
+            "radical nephrectomy",
+            1
+        ],
+        [
+            "relay nodes",
+            1
+        ],
+        [
+            "random noise",
+            1
+        ],
+        [
+            "radial normalization",
+            1
+        ]
+    ],
+    "SN": [
+        [
+            "secondary node",
+            1
+        ],
+        [
+            "source node",
+            1
+        ],
+        [
+            "spectral normalization",
+            1
+        ]
+    ],
+    "RV": [
+        [
+            "random vaccination",
+            1
+        ],
+        [
+            "right ventricle",
+            1
+        ],
+        [
+            "random voting",
+            1
+        ],
+        [
+            "random variable",
+            1
+        ],
+        [
+            "resilience vector",
+            1
+        ],
+        [
+            "range view",
+            1
+        ]
+    ],
+    "AV": [
+        [
+            "acquaintance vaccination",
+            1
+        ],
+        [
+            "antivirus",
+            1
+        ],
+        [
+            "autonomous vehicle",
+            1
+        ]
+    ],
+    "ACR": [
+        [
+            "air change rates",
+            1
+        ],
+        [
+            "absolute category rating",
+            1
+        ]
+    ],
+    "CN": [
+        [
+            "common neighbours",
+            1
+        ],
+        [
+            "clustered networks",
+            1
+        ],
+        [
+            "core network",
+            1
+        ],
+        [
+            "cognitively normal",
+            1
+        ],
+        [
+            "common noun",
+            1
+        ]
+    ],
+    "CFA": [
+        [
+            "color filter arrays",
+            1
+        ],
+        [
+            "constriction factor approach",
+            1
+        ],
+        [
+            "counterfactual future advantage",
+            1
+        ]
+    ],
+    "DAS": [
+        [
+            "data availability statement",
+            1
+        ],
+        [
+            "disclosure avoidance system",
+            1
+        ]
+    ],
+    "HF": [
+        [
+            "hybrid fusion",
+            1
+        ],
+        [
+            "high frequency",
+            1
+        ]
+    ],
+    "MC": [
+        [
+            "mean - centering",
+            1
+        ],
+        [
+            "myocardium",
+            1
+        ],
+        [
+            "monte carlo",
+            1
+        ],
+        [
+            "multi connectivity",
+            1
+        ],
+        [
+            "marginal contribution",
+            1
+        ],
+        [
+            "markov chain",
+            1
+        ],
+        [
+            "mutual cover",
+            1
+        ],
+        [
+            "matrix converter",
+            1
+        ]
+    ],
+    "ATE": [
+        [
+            "absolute trajectory error",
+            1
+        ],
+        [
+            "average translation error",
+            1
+        ]
+    ],
+    "RPE": [
+        [
+            "relative pose error",
+            1
+        ],
+        [
+            "retinal pigment epithelium",
+            1
+        ]
+    ],
+    "CMS": [
+        [
+            "codeword mixture sampling",
+            1
+        ],
+        [
+            "counting monadic second",
+            1
+        ]
+    ],
+    "DVS": [
+        [
+            "dynamic vision sensor",
+            1
+        ],
+        [
+            "dynamic voltage scaling",
+            1
+        ]
+    ],
+    "ED": [
+        [
+            "economic dispatch",
+            1
+        ],
+        [
+            "emergency department",
+            1
+        ],
+        [
+            "embedded deformation",
+            1
+        ],
+        [
+            "euclidean distance",
+            1
+        ],
+        [
+            "energy detection",
+            1
+        ]
+    ],
+    "APP": [
+        [
+            "australian privacy principles",
+            1
+        ],
+        [
+            "a posteriori probability",
+            1
+        ]
+    ],
+    "CM": [
+        [
+            "canalizing map",
+            1
+        ],
+        [
+            "centroid methods",
+            1
+        ],
+        [
+            "confusion matrix",
+            1
+        ],
+        [
+            "continental margin",
+            1
+        ],
+        [
+            "corporate messaging",
+            1
+        ],
+        [
+            "choir mix",
+            1
+        ],
+        [
+            "coded modulation",
+            1
+        ]
+    ],
+    "SC": [
+        [
+            "sleep cassette",
+            1
+        ],
+        [
+            "sum capacity",
+            1
+        ],
+        [
+            "steering control",
+            1
+        ],
+        [
+            "smallest class",
+            1
+        ],
+        [
+            "successive cancellation",
+            1
+        ],
+        [
+            "score contextualisation",
+            1
+        ],
+        [
+            "self cover",
+            1
+        ],
+        [
+            "subset compared",
+            1
+        ],
+        [
+            "spectral clustering",
+            1
+        ],
+        [
+            "smart contract",
+            1
+        ],
+        [
+            "self consistency",
+            1
+        ],
+        [
+            "selection combining",
+            1
+        ],
+        [
+            "sum capacities",
+            1
+        ],
+        [
+            "symmetry condition",
+            1
+        ],
+        [
+            "single connectivity",
+            1
+        ],
+        [
+            "special case",
+            1
+        ],
+        [
+            "spatial crowdsourcing",
+            1
+        ],
+        [
+            "strongly connected",
+            1
+        ]
+    ],
+    "SW": [
+        [
+            "similarity weight",
+            1
+        ],
+        [
+            "sliding window",
+            1
+        ],
+        [
+            "small - world",
+            1
+        ]
+    ],
+    "RCNN": [
+        [
+            "recurrent convolutional neural network",
+            1
+        ],
+        [
+            "region based convolutional neural network",
+            1
+        ]
+    ],
+    "ESE": [
+        [
+            "entity set expansion",
+            1
+        ],
+        [
+            "extract similar entities",
+            1
+        ]
+    ],
+    "GEM": [
+        [
+            "gradient episodic memory",
+            1
+        ],
+        [
+            "grid entropy measurement",
+            1
+        ]
+    ],
+    "OLS": [
+        [
+            "orthogonal least square",
+            1
+        ],
+        [
+            "ordinary least square",
+            1
+        ]
+    ],
+    "OSA": [
+        [
+            "opportunistic spectrum access",
+            1
+        ],
+        [
+            "obstructive sleep apnoea",
+            1
+        ]
+    ],
+    "SF": [
+        [
+            "satisfaction function",
+            1
+        ],
+        [
+            "sequential fixing",
+            1
+        ],
+        [
+            "scale free",
+            1
+        ],
+        [
+            "structure fusion",
+            1
+        ],
+        [
+            "small faces",
+            1
+        ],
+        [
+            "separable footprints",
+            1
+        ],
+        [
+            "state - feedback",
+            1
+        ]
+    ],
+    "CH": [
+        [
+            "cluster head",
+            1
+        ],
+        [
+            "constraint handling",
+            1
+        ]
+    ],
+    "BP": [
+        [
+            "belief propagation",
+            1
+        ],
+        [
+            "bin packing",
+            1
+        ],
+        [
+            "basis pursuit",
+            1
+        ],
+        [
+            "backprop",
+            1
+        ],
+        [
+            "back propagation",
+            1
+        ],
+        [
+            "backdoor poisoning",
+            1
+        ],
+        [
+            "bundle protocol",
+            1
+        ],
+        [
+            "best performing",
+            1
+        ]
+    ],
+    "LC": [
+        [
+            "latent class",
+            1
+        ],
+        [
+            "local conditioning",
+            1
+        ],
+        [
+            "line card",
+            1
+        ],
+        [
+            "least confidence",
+            1
+        ],
+        [
+            "largest class",
+            1
+        ],
+        [
+            "land cover",
+            1
+        ],
+        [
+            "latent clustering",
+            1
+        ],
+        [
+            "lyrics comprehension",
+            1
+        ]
+    ],
+    "FTE": [
+        [
+            "foveal tilt effects",
+            1
+        ],
+        [
+            "full time employment",
+            1
+        ]
+    ],
+    "HT": [
+        [
+            "hough transform",
+            1
+        ],
+        [
+            "hoeffding tree",
+            1
+        ]
+    ],
+    "SER": [
+        [
+            "symbol error rate",
+            1
+        ],
+        [
+            "speaker error rate",
+            1
+        ],
+        [
+            "speech emotion recognition",
+            1
+        ]
+    ],
+    "BS": [
+        [
+            "base station",
+            1
+        ],
+        [
+            "beam search",
+            1
+        ],
+        [
+            "brier score",
+            1
+        ],
+        [
+            "batch size",
+            1
+        ],
+        [
+            "standard beam search",
+            1
+        ],
+        [
+            "bayesian sets",
+            1
+        ],
+        [
+            "bidirectional similarity",
+            1
+        ]
+    ],
+    "BT": [
+        [
+            "best target",
+            1
+        ],
+        [
+            "back translation",
+            1
+        ],
+        [
+            "bernoulli trial",
+            1
+        ]
+    ],
+    "RB": [
+        [
+            "random beamforming",
+            1
+        ],
+        [
+            "resource blocks",
+            1
+        ],
+        [
+            "rank - based",
+            1
+        ],
+        [
+            "reduced basis",
+            1
+        ],
+        [
+            "rosi braidotti",
+            1
+        ]
+    ],
+    "UD": [
+        [
+            "universal dependencies",
+            1
+        ],
+        [
+            "unified distillation",
+            1
+        ]
+    ],
+    "GN": [
+        [
+            "gaussian noise",
+            1
+        ],
+        [
+            "grid name",
+            1
+        ],
+        [
+            "gauss - newton",
+            1
+        ]
+    ],
+    "GCNN": [
+        [
+            "graph convolutional neural network",
+            1
+        ],
+        [
+            "geodesic convolution neural network",
+            1
+        ]
+    ],
+    "GCN": [
+        [
+            "generalised convolutional neural network",
+            1
+        ],
+        [
+            "graph convolution networks",
+            1
+        ],
+        [
+            "global convolution networks",
+            1
+        ]
+    ],
+    "HAN": [
+        [
+            "hierarchical attention network",
+            1
+        ],
+        [
+            "heterogeneous attributed network",
+            1
+        ]
+    ],
+    "HMP": [
+        [
+            "hierarchical matching pursuit",
+            1
+        ],
+        [
+            "hypermutations with mutation potential",
+            1
+        ]
+    ],
+    "BPE": [
+        [
+            "byte pair encoding",
+            1
+        ],
+        [
+            "backward partial execution",
+            1
+        ]
+    ],
+    "ASD": [
+        [
+            "autism spectrum disorders",
+            1
+        ],
+        [
+            "average surface distance",
+            1
+        ]
+    ],
+    "SWD": [
+        [
+            "sliced wasserstein distance",
+            1
+        ],
+        [
+            "semantic web deployment",
+            1
+        ]
+    ],
+    "BAM": [
+        [
+            "behance artistic media",
+            1
+        ],
+        [
+            "best alignment metric",
+            1
+        ],
+        [
+            "bandwidth allocation model",
+            1
+        ]
+    ],
+    "SSR": [
+        [
+            "spatial skeleton realignment",
+            1
+        ],
+        [
+            "sparse signal recovery",
+            1
+        ],
+        [
+            "spectral super - resolution",
+            1
+        ]
+    ],
+    "EB": [
+        [
+            "energy buffer",
+            1
+        ],
+        [
+            "energy beam",
+            1
+        ]
+    ],
+    "SI": [
+        [
+            "satellite imagery",
+            1
+        ],
+        [
+            "semantic inpainting",
+            1
+        ]
+    ],
+    "AN": [
+        [
+            "artificial noise",
+            1
+        ],
+        [
+            "attention network",
+            1
+        ]
+    ],
+    "ESC": [
+        [
+            "environment sound classification",
+            1
+        ],
+        [
+            "ergodic sum capacity",
+            1
+        ]
+    ],
+    "TSP": [
+        [
+            "traveling salesman problem",
+            1
+        ],
+        [
+            "triad significance profile",
+            1
+        ]
+    ],
+    "LPP": [
+        [
+            "locality preserving projections",
+            1
+        ],
+        [
+            "load planning problem",
+            1
+        ]
+    ],
+    "ITS": [
+        [
+            "intelligent transportation system",
+            1
+        ],
+        [
+            "interrupted time series",
+            1
+        ],
+        [
+            "intelligent tutoring systems",
+            1
+        ]
+    ],
+    "CST": [
+        [
+            "corticospinal tract",
+            1
+        ],
+        [
+            "china standard time",
+            1
+        ]
+    ],
+    "CMI": [
+        [
+            "conditional mutual information",
+            1
+        ],
+        [
+            "code - mixed index",
+            1
+        ]
+    ],
+    "SCA": [
+        [
+            "successive convex approximation",
+            1
+        ],
+        [
+            "scatter component analysis",
+            1
+        ],
+        [
+            "smart cut algorithm",
+            1
+        ]
+    ],
+    "ISP": [
+        [
+            "internet service providers",
+            1
+        ],
+        [
+            "image signal processor",
+            1
+        ]
+    ],
+    "BNC": [
+        [
+            "british national corpus",
+            1
+        ],
+        [
+            "brown news corpus",
+            1
+        ]
+    ],
+    "MACS": [
+        [
+            "mean average conceptual similarity",
+            1
+        ],
+        [
+            "minimum average conceptual similarity",
+            1
+        ]
+    ],
+    "ADA": [
+        [
+            "american diabetes association 's",
+            1
+        ],
+        [
+            "adaptive data augmentation",
+            1
+        ]
+    ],
+    "DS": [
+        [
+            "delay spread",
+            1
+        ],
+        [
+            "direct sharing",
+            1
+        ],
+        [
+            "data structure",
+            1
+        ],
+        [
+            "data sharing",
+            1
+        ],
+        [
+            "differentiated softmax",
+            1
+        ],
+        [
+            "dempster - shafer",
+            1
+        ],
+        [
+            "detection scores",
+            1
+        ]
+    ],
+    "MSA": [
+        [
+            "modern standard arabic",
+            1
+        ],
+        [
+            "multilevel splitting algorithm",
+            1
+        ],
+        [
+            "multiple sequence alignment",
+            1
+        ]
+    ],
+    "DES": [
+        [
+            "dual energy subtraction",
+            1
+        ],
+        [
+            "defence equipment support",
+            1
+        ]
+    ],
+    "SFC": [
+        [
+            "superposition of functional contours",
+            1
+        ],
+        [
+            "service function chaining",
+            1
+        ]
+    ],
+    "PLP": [
+        [
+            "perceptual linear prediction",
+            1
+        ],
+        [
+            "poisson line process",
+            1
+        ]
+    ],
+    "FPR": [
+        [
+            "false positive rate",
+            1
+        ],
+        [
+            "fuzzy preference relation",
+            1
+        ]
+    ],
+    "BDT": [
+        [
+            "boosted decision trees",
+            1
+        ],
+        [
+            "bi - directional domain translation",
+            1
+        ]
+    ],
+    "PAP": [
+        [
+            "process arrival pattern",
+            1
+        ],
+        [
+            "policy administration point",
+            1
+        ]
+    ],
+    "RM": [
+        [
+            "roofline model",
+            1
+        ],
+        [
+            "robot middleware",
+            1
+        ],
+        [
+            "representation mixing",
+            1
+        ],
+        [
+            "resource management",
+            1
+        ]
+    ],
+    "EAD": [
+        [
+            "encoded archival description",
+            1
+        ],
+        [
+            "exponential absolute distance",
+            1
+        ]
+    ],
+    "DCP": [
+        [
+            "deep context prediction",
+            1
+        ],
+        [
+            "darwin correspondence project",
+            1
+        ]
+    ],
+    "VO": [
+        [
+            "velocity obstacle",
+            1
+        ],
+        [
+            "visual odometry",
+            1
+        ]
+    ],
+    "ECC": [
+        [
+            "error correcting code",
+            1
+        ],
+        [
+            "elliptic curve cryptography",
+            1
+        ]
+    ],
+    "ASN": [
+        [
+            "autonomous system number",
+            1
+        ],
+        [
+            "average sample number",
+            1
+        ]
+    ],
+    "LSA": [
+        [
+            "latent semantic analysis",
+            1
+        ],
+        [
+            "licensed shared access",
+            1
+        ]
+    ],
+    "SMC": [
+        [
+            "sequential monte carlo",
+            1
+        ],
+        [
+            "sliding mode control",
+            1
+        ],
+        [
+            "statistical model checking",
+            1
+        ],
+        [
+            "secure multiparty computation",
+            1
+        ]
+    ],
+    "EO": [
+        [
+            "eyes open",
+            1
+        ],
+        [
+            "earth observation",
+            1
+        ]
+    ],
+    "EDA": [
+        [
+            "evolutionary distribution algorithm",
+            1
+        ],
+        [
+            "exploratory data analysis",
+            1
+        ]
+    ],
+    "DRL": [
+        [
+            "deep reinforcement learning",
+            1
+        ],
+        [
+            "distributional reinforcement learning",
+            1
+        ]
+    ],
+    "PG": [
+        [
+            "policy gradient",
+            1
+        ],
+        [
+            "policy generator",
+            1
+        ],
+        [
+            "property graph",
+            1
+        ]
+    ],
+    "ROM": [
+        [
+            "range of motion",
+            1
+        ],
+        [
+            "reduced - order models",
+            1
+        ]
+    ],
+    "ICC": [
+        [
+            "intraclass correlation coefficient",
+            1
+        ],
+        [
+            "implicit computational complexity",
+            1
+        ]
+    ],
+    "MBR": [
+        [
+            "minimum bandwidth regenerating",
+            1
+        ],
+        [
+            "minimum bounding rectangle",
+            1
+        ]
+    ],
+    "DT": [
+        [
+            "decision tree",
+            1
+        ],
+        [
+            "delivery teams",
+            1
+        ]
+    ],
+    "RLS": [
+        [
+            "recursive least squares",
+            1
+        ],
+        [
+            "regularized least squares",
+            1
+        ],
+        [
+            "random local search",
+            1
+        ]
+    ],
+    "SP": [
+        [
+            "strictly piecewise",
+            1
+        ],
+        [
+            "streaming processors",
+            1
+        ],
+        [
+            "set partitioning",
+            1
+        ],
+        [
+            "subspace pursuit",
+            1
+        ],
+        [
+            "stream processor",
+            1
+        ],
+        [
+            "shilling profiles",
+            1
+        ],
+        [
+            "semantic parsing",
+            1
+        ],
+        [
+            "shortest path",
+            1
+        ],
+        [
+            "spatial pooler",
+            1
+        ],
+        [
+            "standards poors",
+            1
+        ],
+        [
+            "sao paulo",
+            1
+        ],
+        [
+            "set point",
+            1
+        ],
+        [
+            "splitting problem",
+            1
+        ]
+    ],
+    "SL": [
+        [
+            "strictly local",
+            1
+        ],
+        [
+            "separation logic",
+            1
+        ],
+        [
+            "supervised learning",
+            1
+        ]
+    ],
+    "CLS": [
+        [
+            "constrained least squares",
+            1
+        ],
+        [
+            "complementary learning systems",
+            1
+        ]
+    ],
+    "ARA": [
+        [
+            "adversarial risk analysis",
+            1
+        ],
+        [
+            "accumulate repeat accumulate",
+            1
+        ]
+    ],
+    "POI": [
+        [
+            "points of interest",
+            1
+        ],
+        [
+            "projection of interest",
+            1
+        ]
+    ],
+    "RSS": [
+        [
+            "received signal strength",
+            1
+        ],
+        [
+            "radio signal strength",
+            1
+        ],
+        [
+            "random subcarrier selection",
+            1
+        ]
+    ],
+    "CSD": [
+        [
+            "constrained spherical deconvolution",
+            1
+        ],
+        [
+            "critical sensor density",
+            1
+        ],
+        [
+            "contextual sentence decomposition",
+            1
+        ]
+    ],
+    "PN": [
+        [
+            "pixel - wise normalization",
+            1
+        ],
+        [
+            "partial nephrectomy",
+            1
+        ]
+    ],
+    "PA": [
+        [
+            "provider aggregatable",
+            1
+        ],
+        [
+            "philadelphia",
+            1
+        ],
+        [
+            "physical access",
+            1
+        ],
+        [
+            "peano 's arithmetics",
+            1
+        ],
+        [
+            "parallel attention",
+            1
+        ],
+        [
+            "preferential attachment",
+            1
+        ],
+        [
+            "power allocation",
+            1
+        ],
+        [
+            "presburger arithmetic",
+            1
+        ]
+    ],
+    "FD": [
+        [
+            "fast dormancy",
+            1
+        ],
+        [
+            "finite differences",
+            1
+        ],
+        [
+            "fractal dimension",
+            1
+        ],
+        [
+            "fully - digital",
+            1
+        ]
+    ],
+    "IC": [
+        [
+            "initial contact",
+            1
+        ],
+        [
+            "integrated circuit",
+            1
+        ],
+        [
+            "independent cascading",
+            1
+        ]
+    ],
+    "SPM": [
+        [
+            "statistical parameter mapping",
+            1
+        ],
+        [
+            "saliency prediction model",
+            1
+        ],
+        [
+            "spatial pyramid matching",
+            1
+        ]
+    ],
+    "EMD": [
+        [
+            "earth mover 's distance",
+            1
+        ],
+        [
+            "excessive mapping dissolution",
+            1
+        ]
+    ],
+    "CRC": [
+        [
+            "cyclic redundancy check",
+            1
+        ],
+        [
+            "collaborative representation classification",
+            1
+        ]
+    ],
+    "ADN": [
+        [
+            "artifact disentanglement network",
+            1
+        ],
+        [
+            "activity driven networks",
+            1
+        ]
+    ],
+    "TU": [
+        [
+            "threshold updation",
+            1
+        ],
+        [
+            "translation unit",
+            1
+        ]
+    ],
+    "OEC": [
+        [
+            "oxford english corpus",
+            1
+        ],
+        [
+            "online elliptical clustering",
+            1
+        ]
+    ],
+    "BSM": [
+        [
+            "basic skill module",
+            1
+        ],
+        [
+            "basic safety messages",
+            1
+        ]
+    ],
+    "BNN": [
+        [
+            "bayesian neural networks",
+            1
+        ],
+        [
+            "binary neural networks",
+            1
+        ]
+    ],
+    "GVR": [
+        [
+            "gradient variance regularizer",
+            1
+        ],
+        [
+            "global visual representations",
+            1
+        ]
+    ],
+    "SCCs": [
+        [
+            "strongly connected components",
+            1
+        ],
+        [
+            "static camera clusters",
+            1
+        ]
+    ],
+    "RT": [
+        [
+            "radiation therapy",
+            1
+        ],
+        [
+            "retweets",
+            1
+        ],
+        [
+            "reparameterization trick",
+            1
+        ],
+        [
+            "response time",
+            1
+        ],
+        [
+            "ruthes",
+            1
+        ],
+        [
+            "random target",
+            1
+        ],
+        [
+            "region template",
+            1
+        ]
+    ],
+    "RW": [
+        [
+            "reaction wheels",
+            1
+        ],
+        [
+            "random walk",
+            1
+        ],
+        [
+            "rolling window",
+            1
+        ]
+    ],
+    "LV": [
+        [
+            "left ventricle",
+            1
+        ],
+        [
+            "las vegas",
+            1
+        ],
+        [
+            "large volumetric",
+            1
+        ]
+    ],
+    "RG": [
+        [
+            "renormalization group",
+            1
+        ],
+        [
+            "riemmanian geometry",
+            1
+        ],
+        [
+            "real graphs",
+            1
+        ],
+        [
+            "reber grammar",
+            1
+        ]
+    ],
+    "AT": [
+        [
+            "asteroidal triple",
+            1
+        ],
+        [
+            "adversarial training",
+            1
+        ],
+        [
+            "adaptive threshold",
+            1
+        ]
+    ],
+    "CCR": [
+        [
+            "correct classification ratio",
+            1
+        ],
+        [
+            "cross - document coreference resolution",
+            1
+        ],
+        [
+            "correct correction rate",
+            1
+        ]
+    ],
+    "GMP": [
+        [
+            "gain minus pain",
+            1
+        ],
+        [
+            "global max pooling",
+            1
+        ]
+    ],
+    "CBT": [
+        [
+            "children 's book test",
+            1
+        ],
+        [
+            "consensus - before - talk",
+            1
+        ]
+    ],
+    "DAR": [
+        [
+            "dynamic assignment ratio",
+            1
+        ],
+        [
+            "defence application register",
+            1
+        ]
+    ],
+    "TSA": [
+        [
+            "temporary scope association",
+            1
+        ],
+        [
+            "taobao search advertising",
+            1
+        ],
+        [
+            "temporal semantic analysis",
+            1
+        ]
+    ],
+    "MI": [
+        [
+            "myocardial infarction",
+            1
+        ],
+        [
+            "mutual information",
+            1
+        ],
+        [
+            "motor imagery",
+            1
+        ],
+        [
+            "mathematical induction",
+            1
+        ]
+    ],
+    "PVC": [
+        [
+            "premature ventricular contraction",
+            1
+        ],
+        [
+            "passive voltage contrast",
+            1
+        ]
+    ],
+    "WT": [
+        [
+            "wavelet transform",
+            1
+        ],
+        [
+            "wild type",
+            1
+        ],
+        [
+            "whole tumor",
+            1
+        ],
+        [
+            "william thackeray",
+            1
+        ]
+    ],
+    "AAL": [
+        [
+            "automated anatomical labeling",
+            1
+        ],
+        [
+            "ambient assisted living",
+            1
+        ]
+    ],
+    "DA": [
+        [
+            "denoised auto - encoder",
+            1
+        ],
+        [
+            "data assimilation",
+            1
+        ],
+        [
+            "deterministic annealing",
+            1
+        ],
+        [
+            "domain adaptation",
+            1
+        ],
+        [
+            "data augmentation",
+            1
+        ],
+        [
+            "direct assessment",
+            1
+        ],
+        [
+            "dialogue acts",
+            1
+        ],
+        [
+            "distribution alignment",
+            1
+        ]
+    ],
+    "MIR": [
+        [
+            "music information retrieval",
+            1
+        ],
+        [
+            "music instrument recognition",
+            1
+        ],
+        [
+            "music information research",
+            1
+        ]
+    ],
+    "DCT": [
+        [
+            "document creation time",
+            1
+        ],
+        [
+            "download completion time",
+            1
+        ],
+        [
+            "discrete cosine transformation",
+            1
+        ]
+    ],
+    "PLS": [
+        [
+            "partial least square",
+            1
+        ],
+        [
+            "physical layer security",
+            1
+        ],
+        [
+            "progressive lesion segmentation",
+            1
+        ]
+    ],
+    "PC": [
+        [
+            "program counter",
+            1
+        ],
+        [
+            "point cloud",
+            1
+        ],
+        [
+            "program committee",
+            1
+        ],
+        [
+            "principal component",
+            1
+        ]
+    ],
+    "CNS": [
+        [
+            "central nervous system",
+            1
+        ],
+        [
+            "copenhagen networks study",
+            1
+        ]
+    ],
+    "AD": [
+        [
+            "alzheimer 's disease",
+            1
+        ],
+        [
+            "automatic differentiation",
+            1
+        ],
+        [
+            "audit department",
+            1
+        ],
+        [
+            "anomaly detection",
+            1
+        ],
+        [
+            "auction distribution",
+            1
+        ],
+        [
+            "artificially - degraded",
+            1
+        ],
+        [
+            "axial diffusivity",
+            1
+        ]
+    ],
+    "PL": [
+        [
+            "path loss",
+            1
+        ],
+        [
+            "polarity loss",
+            1
+        ],
+        [
+            "programming language",
+            1
+        ],
+        [
+            "parallel lexicon",
+            1
+        ],
+        [
+            "photoluminescence",
+            1
+        ]
+    ],
+    "CMC": [
+        [
+            "cumulative matching characteristic",
+            1
+        ],
+        [
+            "crude monte carlo",
+            1
+        ]
+    ],
+    "CER": [
+        [
+            "character error rate",
+            1
+        ],
+        [
+            "classification error rate",
+            1
+        ],
+        [
+            "clustering error rate",
+            1
+        ]
+    ],
+    "FE": [
+        [
+            "fire emblem",
+            1
+        ],
+        [
+            "finite element",
+            1
+        ],
+        [
+            "feature extraction",
+            1
+        ]
+    ],
+    "NC": [
+        [
+            "network coding",
+            1
+        ],
+        [
+            "normalized correlation",
+            1
+        ],
+        [
+            "north carolina",
+            1
+        ],
+        [
+            "new classes",
+            1
+        ],
+        [
+            "noise clinic",
+            1
+        ],
+        [
+            "network centre",
+            1
+        ],
+        [
+            "next corollary",
+            1
+        ],
+        [
+            "node classification",
+            1
+        ],
+        [
+            "news commentary",
+            1
+        ]
+    ],
+    "CTC": [
+        [
+            "connectionist temporal classification",
+            1
+        ],
+        [
+            "common test conditions",
+            1
+        ]
+    ],
+    "ZF": [
+        [
+            "zero forcing",
+            1
+        ],
+        [
+            "zero - filled",
+            1
+        ]
+    ],
+    "SE": [
+        [
+            "spectral efficiency",
+            1
+        ],
+        [
+            "situation entity",
+            1
+        ],
+        [
+            "smarteda",
+            1
+        ],
+        [
+            "sequential exploring",
+            1
+        ],
+        [
+            "software engineering",
+            1
+        ],
+        [
+            "strong elimination",
+            1
+        ],
+        [
+            "signed error",
+            1
+        ],
+        [
+            "speech enhancement",
+            1
+        ],
+        [
+            "signal enhancement",
+            1
+        ],
+        [
+            "squared exponential",
+            1
+        ],
+        [
+            "selective eraser",
+            1
+        ],
+        [
+            "small enough",
+            1
+        ],
+        [
+            "systems engineering",
+            1
+        ]
+    ],
+    "DAC": [
+        [
+            "disk array controller",
+            1
+        ],
+        [
+            "distributed admission control",
+            1
+        ]
+    ],
+    "GRD": [
+        [
+            "group rotate declustering",
+            1
+        ],
+        [
+            "ground range detected",
+            1
+        ]
+    ],
+    "ALS": [
+        [
+            "aerial laser scanner",
+            1
+        ],
+        [
+            "alternating least squares",
+            1
+        ]
+    ],
+    "CE": [
+        [
+            "cross entropy",
+            1
+        ],
+        [
+            "contrastive estimation",
+            1
+        ],
+        [
+            "context entities",
+            1
+        ],
+        [
+            "category embeddings",
+            1
+        ],
+        [
+            "context encoder",
+            1
+        ],
+        [
+            "crossing event",
+            1
+        ]
+    ],
+    "ICA": [
+        [
+            "imperialist competitive algorithm",
+            1
+        ],
+        [
+            "independent component analysis",
+            1
+        ]
+    ],
+    "WS": [
+        [
+            "weight superiority",
+            1
+        ],
+        [
+            "word shape",
+            1
+        ],
+        [
+            "word sequence",
+            1
+        ],
+        [
+            "write skew",
+            1
+        ]
+    ],
+    "SCM": [
+        [
+            "semantic correlation maximization",
+            1
+        ],
+        [
+            "spatial compositional model",
+            1
+        ],
+        [
+            "scanning capacitance microscopy",
+            1
+        ]
+    ],
+    "BF": [
+        [
+            "blind forwarding",
+            1
+        ],
+        [
+            "basic feature",
+            1
+        ],
+        [
+            "bayes factor",
+            1
+        ],
+        [
+            "bilateral filtering",
+            1
+        ],
+        [
+            "black females",
+            1
+        ],
+        [
+            "binary function",
+            1
+        ],
+        [
+            "brute force search",
+            1
+        ],
+        [
+            "bayesian filtering",
+            1
+        ]
+    ],
+    "PAF": [
+        [
+            "provider - aware forwarding",
+            1
+        ],
+        [
+            "plenacoustic function",
+            1
+        ]
+    ],
+    "GC": [
+        [
+            "garbage collector",
+            1
+        ],
+        [
+            "graph cuts",
+            1
+        ],
+        [
+            "graph convolution",
+            1
+        ]
+    ],
+    "SIS": [
+        [
+            "sequential importance sampling",
+            1
+        ],
+        [
+            "social identification system",
+            1
+        ]
+    ],
+    "VC": [
+        [
+            "voice conversion",
+            1
+        ],
+        [
+            "virtual classifier",
+            1
+        ]
+    ],
+    "PS": [
+        [
+            "prediction shift",
+            1
+        ],
+        [
+            "parameter server",
+            1
+        ],
+        [
+            "personal storage",
+            1
+        ],
+        [
+            "probabilistic serial",
+            1
+        ],
+        [
+            "power splitting",
+            1
+        ],
+        [
+            "projective simulation",
+            1
+        ],
+        [
+            "processor sharing",
+            1
+        ]
+    ],
+    "UAS": [
+        [
+            "unlabeled attachment score",
+            1
+        ],
+        [
+            "unmanned aircraft systems",
+            1
+        ]
+    ],
+    "BI": [
+        [
+            "business intelligence",
+            1
+        ],
+        [
+            "bayesian inference",
+            1
+        ],
+        [
+            "bilinear interpolation",
+            1
+        ]
+    ],
+    "NE": [
+        [
+            "nash equilibrium",
+            1
+        ],
+        [
+            "named entity",
+            1
+        ],
+        [
+            "nested experiments",
+            1
+        ]
+    ],
+    "FM": [
+        [
+            "factorization machines",
+            1
+        ],
+        [
+            "formal methods",
+            1
+        ],
+        [
+            "feature matching",
+            1
+        ],
+        [
+            "flash memory",
+            1
+        ],
+        [
+            "forward models",
+            1
+        ],
+        [
+            "fowlkes mallows index",
+            1
+        ],
+        [
+            "feature map",
+            1
+        ],
+        [
+            "f1-measure",
+            1
+        ],
+        [
+            "frequency modulation",
+            1
+        ],
+        [
+            "finite mixture",
+            1
+        ],
+        [
+            "fuzzy measure",
+            1
+        ]
+    ],
+    "MRE": [
+        [
+            "mean relative error",
+            1
+        ],
+        [
+            "median recovery error",
+            1
+        ]
+    ],
+    "BDI": [
+        [
+            "belief , desire , intention",
+            1
+        ],
+        [
+            "beck 's depression inventory",
+            1
+        ]
+    ],
+    "TE": [
+        [
+            "transformation encoder",
+            1
+        ],
+        [
+            "taylor expansion",
+            1
+        ],
+        [
+            "transformation error",
+            1
+        ],
+        [
+            "temporal expressions",
+            1
+        ]
+    ],
+    "APT": [
+        [
+            "anytime parameter - free thresholding",
+            1
+        ],
+        [
+            "advanced persistent threat",
+            1
+        ]
+    ],
+    "NR": [
+        [
+            "new radio",
+            1
+        ],
+        [
+            "nuclear receptor",
+            1
+        ]
+    ],
+    "ART": [
+        [
+            "adaptive radix tree",
+            1
+        ],
+        [
+            "adaptive resonance theory",
+            1
+        ]
+    ],
+    "GM": [
+        [
+            "genetically modified",
+            1
+        ],
+        [
+            "gradient magnitude",
+            1
+        ],
+        [
+            "graph matching",
+            1
+        ],
+        [
+            "generator matrix",
+            1
+        ]
+    ],
+    "LB": [
+        [
+            "lower bound",
+            1
+        ],
+        [
+            "lovasz bregman",
+            1
+        ]
+    ],
+    "IPC": [
+        [
+            "instructions per cycle",
+            1
+        ],
+        [
+            "individual pitch control",
+            1
+        ],
+        [
+            "international patent classification",
+            1
+        ]
+    ],
+    "LT": [
+        [
+            "lomonosov 's turnip",
+            1
+        ],
+        [
+            "likelihood test",
+            1
+        ],
+        [
+            "linear threshold",
+            1
+        ],
+        [
+            "luby transform",
+            1
+        ],
+        [
+            "label transfer",
+            1
+        ]
+    ],
+    "DOM": [
+        [
+            "document object model",
+            1
+        ],
+        [
+            "degrees of measurement",
+            1
+        ]
+    ],
+    "ESR": [
+        [
+            "equivalent series resistances",
+            1
+        ],
+        [
+            "extended support release",
+            1
+        ]
+    ],
+    "PCM": [
+        [
+            "peak current mode",
+            1
+        ],
+        [
+            "phase change memory",
+            1
+        ],
+        [
+            "permanent customer model",
+            1
+        ]
+    ],
+    "IB": [
+        [
+            "imaginary batches",
+            1
+        ],
+        [
+            "information bottleneck",
+            1
+        ],
+        [
+            "immersed boundary",
+            1
+        ]
+    ],
+    "FL": [
+        [
+            "flatten layer",
+            1
+        ],
+        [
+            "federated learning",
+            1
+        ],
+        [
+            "fixated locations",
+            1
+        ]
+    ],
+    "GD": [
+        [
+            "group delay",
+            1
+        ],
+        [
+            "gradient descent",
+            1
+        ]
+    ],
+    "BPD": [
+        [
+            "baseband phase difference",
+            1
+        ],
+        [
+            "basis pursuit denoising",
+            1
+        ]
+    ],
+    "SCP": [
+        [
+            "squared cosine proximity",
+            1
+        ],
+        [
+            "simultaneous closeness - performance",
+            1
+        ]
+    ],
+    "ECN": [
+        [
+            "explicit congestion notification",
+            1
+        ],
+        [
+            "edge computing node",
+            1
+        ]
+    ],
+    "GRL": [
+        [
+            "gradient reversal layer",
+            1
+        ],
+        [
+            "goal - oriented requirement language",
+            1
+        ]
+    ],
+    "GS": [
+        [
+            "gold standard",
+            1
+        ],
+        [
+            "group sweep",
+            1
+        ],
+        [
+            "gauss seidel",
+            1
+        ],
+        [
+            "geometric sequence",
+            1
+        ],
+        [
+            "genetic search",
+            1
+        ],
+        [
+            "google scholar 's",
+            1
+        ]
+    ],
+    "IM": [
+        [
+            "instant messaging",
+            1
+        ],
+        [
+            "identity mapping",
+            1
+        ],
+        [
+            "intensity modulation",
+            1
+        ],
+        [
+            "influence maps",
+            1
+        ],
+        [
+            "interference margin",
+            1
+        ],
+        [
+            "index modulation",
+            1
+        ]
+    ],
+    "UI": [
+        [
+            "user interface",
+            1
+        ],
+        [
+            "uniform indicator",
+            1
+        ]
+    ],
+    "PRR": [
+        [
+            "packet reception rate",
+            1
+        ],
+        [
+            "pre - reduced ring",
+            1
+        ]
+    ],
+    "DPs": [
+        [
+            "dropped pronouns",
+            1
+        ],
+        [
+            "dependency pairs",
+            1
+        ]
+    ],
+    "NLM": [
+        [
+            "neural logic machines",
+            1
+        ],
+        [
+            "neural language modelling",
+            1
+        ]
+    ],
+    "ACC": [
+        [
+            "anomaly correlation coefficient",
+            1
+        ],
+        [
+            "accuracy",
+            1
+        ],
+        [
+            "adaptive cruise control",
+            1
+        ]
+    ],
+    "CG": [
+        [
+            "conjugate gradient",
+            1
+        ],
+        [
+            "correspondence grouping",
+            1
+        ],
+        [
+            "context - guided attention",
+            1
+        ],
+        [
+            "contour generator",
+            1
+        ],
+        [
+            "context gating",
+            1
+        ],
+        [
+            "chemical graph",
+            1
+        ],
+        [
+            "candidate generation",
+            1
+        ]
+    ],
+    "DG": [
+        [
+            "distributed generation",
+            1
+        ],
+        [
+            "dynamic graph",
+            1
+        ],
+        [
+            "discontinuous galerkin",
+            1
+        ],
+        [
+            "domain generalization",
+            1
+        ]
+    ],
+    "SNP": [
+        [
+            "single nucleotide polymorphisms",
+            1
+        ],
+        [
+            "state neighborhood probability",
+            1
+        ]
+    ],
+    "MDR": [
+        [
+            "multifactor dimensionality reduction",
+            1
+        ],
+        [
+            "message dropping rate",
+            1
+        ]
+    ],
+    "CL": [
+        [
+            "cumulative link",
+            1
+        ],
+        [
+            "coupling layers",
+            1
+        ],
+        [
+            "curriculum learning",
+            1
+        ],
+        [
+            "continual learning",
+            1
+        ],
+        [
+            "classical logic",
+            1
+        ]
+    ],
+    "DIC": [
+        [
+            "directed interval class",
+            1
+        ],
+        [
+            "dynamic induction control",
+            1
+        ],
+        [
+            "deviance information criterion",
+            1
+        ]
+    ],
+    "AEC": [
+        [
+            "accepting end component",
+            1
+        ],
+        [
+            "automatic exposure control",
+            1
+        ]
+    ],
+    "SGNS": [
+        [
+            "syntactic symmetric pattern",
+            1
+        ],
+        [
+            "skip - gram with negative sampling",
+            1
+        ]
+    ],
+    "OCC": [
+        [
+            "one class classifier",
+            1
+        ],
+        [
+            "output constrained covariance",
+            1
+        ],
+        [
+            "open circuit condition",
+            1
+        ]
+    ],
+    "AOT": [
+        [
+            "adaptive on time",
+            1
+        ],
+        [
+            "adaptively optimised threshold",
+            1
+        ]
+    ],
+    "RA": [
+        [
+            "random access",
+            1
+        ],
+        [
+            "ring allreduce",
+            1
+        ],
+        [
+            "resource allocation",
+            1
+        ],
+        [
+            "random attack",
+            1
+        ],
+        [
+            "remote attestation",
+            1
+        ],
+        [
+            "right atrium",
+            1
+        ]
+    ],
+    "PMF": [
+        [
+            "probabilistic matrix factorization",
+            1
+        ],
+        [
+            "probability mass function",
+            1
+        ]
+    ],
+    "DOE": [
+        [
+            "department of energy",
+            1
+        ],
+        [
+            "design of experiment",
+            1
+        ],
+        [
+            "diffractive optical element",
+            1
+        ]
+    ],
+    "RP": [
+        [
+            "replies",
+            1
+        ],
+        [
+            "reciprocal pagerank",
+            1
+        ],
+        [
+            "reference point",
+            1
+        ],
+        [
+            "random priority",
+            1
+        ],
+        [
+            "replacement paths",
+            1
+        ]
+    ],
+    "CSP": [
+        [
+            "constraint satisfaction problem",
+            1
+        ],
+        [
+            "content security policy",
+            1
+        ],
+        [
+            "cloud service providers",
+            1
+        ],
+        [
+            "coverage sampling problem",
+            1
+        ],
+        [
+            "common spatial patterns",
+            1
+        ]
+    ],
+    "PDR": [
+        [
+            "pedestrian dead reckoning",
+            1
+        ],
+        [
+            "packet delivery ratio",
+            1
+        ]
+    ],
+    "TTI": [
+        [
+            "transmission time interval",
+            1
+        ],
+        [
+            "time transmit interval",
+            1
+        ]
+    ],
+    "MM": [
+        [
+            "mathematical model",
+            1
+        ],
+        [
+            "maximum mark",
+            1
+        ]
+    ],
+    "PE": [
+        [
+            "processing element",
+            1
+        ],
+        [
+            "portable executable",
+            1
+        ]
+    ],
+    "FFT": [
+        [
+            "fast fourier transformation",
+            1
+        ],
+        [
+            "feature finding team",
+            1
+        ]
+    ],
+    "TDS": [
+        [
+            "taint dependency sequences",
+            1
+        ],
+        [
+            "training data set",
+            1
+        ]
+    ],
+    "GT": [
+        [
+            "group testing",
+            1
+        ],
+        [
+            "generic tool",
+            1
+        ],
+        [
+            "ground truth",
+            1
+        ],
+        [
+            "graph traversal",
+            1
+        ],
+        [
+            "google translate",
+            1
+        ]
+    ],
+    "CSS": [
+        [
+            "compressive spectrum sensing",
+            1
+        ],
+        [
+            "chirp spread spectrum",
+            1
+        ],
+        [
+            "cooperative spectrum sensing",
+            1
+        ],
+        [
+            "cascade style sheet",
+            1
+        ]
+    ],
+    "IV": [
+        [
+            "initialization vector",
+            1
+        ],
+        [
+            "intersection viewer",
+            1
+        ]
+    ],
+    "OF": [
+        [
+            "optical flow",
+            1
+        ],
+        [
+            "objective function",
+            1
+        ]
+    ],
+    "VFC": [
+        [
+            "vehicular fog computing",
+            1
+        ],
+        [
+            "vector filed consensus",
+            1
+        ]
+    ],
+    "TBS": [
+        [
+            "transport block sizes",
+            1
+        ],
+        [
+            "terrestrial base station",
+            1
+        ]
+    ],
+    "SEP": [
+        [
+            "separator",
+            1
+        ],
+        [
+            "symbol error probability",
+            1
+        ]
+    ],
+    "BR": [
+        [
+            "boundary refinement",
+            1
+        ],
+        [
+            "binary relevance",
+            1
+        ],
+        [
+            "bug reports",
+            1
+        ],
+        [
+            "belief revision",
+            1
+        ],
+        [
+            "best response",
+            1
+        ],
+        [
+            "bone region",
+            1
+        ]
+    ],
+    "RWA": [
+        [
+            "random walker algorithm",
+            1
+        ],
+        [
+            "right wing authoritarianism",
+            1
+        ],
+        [
+            "recurrent weighted average",
+            1
+        ]
+    ],
+    "DCI": [
+        [
+            "downlink control information",
+            1
+        ],
+        [
+            "downlink control indicator",
+            1
+        ]
+    ],
+    "RE": [
+        [
+            "resource elements",
+            1
+        ],
+        [
+            "relation extraction",
+            1
+        ],
+        [
+            "renewable energy",
+            1
+        ],
+        [
+            "requirements elicitation",
+            1
+        ],
+        [
+            "referring expression",
+            1
+        ]
+    ],
+    "PDF": [
+        [
+            "probability density function",
+            1
+        ],
+        [
+            "portable document format",
+            1
+        ],
+        [
+            "primary distribution format",
+            1
+        ]
+    ],
+    "PAT": [
+        [
+            "perform adversarial training",
+            1
+        ],
+        [
+            "process arrival time",
+            1
+        ]
+    ],
+    "SIC": [
+        [
+            "successive interference cancellation",
+            1
+        ],
+        [
+            "static induction control",
+            1
+        ],
+        [
+            "self interference cancellation",
+            1
+        ]
+    ],
+    "DFA": [
+        [
+            "direct feedback alignment",
+            1
+        ],
+        [
+            "deterministic finite automaton",
+            1
+        ]
+    ],
+    "IEC": [
+        [
+            "information embedding cost",
+            1
+        ],
+        [
+            "international electrotechnical commission",
+            1
+        ]
+    ],
+    "IAN": [
+        [
+            "introspective adversarial network",
+            1
+        ],
+        [
+            "interference as noise",
+            1
+        ]
+    ],
+    "WN": [
+        [
+            "weak normalization",
+            1
+        ],
+        [
+            "weight normalization",
+            1
+        ]
+    ],
+    "TTP": [
+        [
+            "trusted third party",
+            1
+        ],
+        [
+            "total transmit power",
+            1
+        ]
+    ],
+    "SSM": [
+        [
+            "state space model",
+            1
+        ],
+        [
+            "statistical shape modeling",
+            1
+        ]
+    ],
+    "WSI": [
+        [
+            "whole slide image",
+            1
+        ],
+        [
+            "word sense induction",
+            1
+        ]
+    ],
+    "CDA": [
+        [
+            "concurrent dialogue acts",
+            1
+        ],
+        [
+            "christen democratisch appel",
+            1
+        ],
+        [
+            "canonical discriminant analysis",
+            1
+        ],
+        [
+            "continuous decomposition analysis",
+            1
+        ]
+    ],
+    "BL": [
+        [
+            "black level subtraction",
+            1
+        ],
+        [
+            "bayesian learning",
+            1
+        ]
+    ],
+    "NSS": [
+        [
+            "normalized scan - path saliency",
+            1
+        ],
+        [
+            "non - local self similar",
+            1
+        ]
+    ],
+    "VSI": [
+        [
+            "virtual switch instances",
+            1
+        ],
+        [
+            "variational system identification",
+            1
+        ],
+        [
+            "voltage source inverter",
+            1
+        ]
+    ],
+    "RRC": [
+        [
+            "rank residual constraint",
+            1
+        ],
+        [
+            "radio resource control",
+            1
+        ]
+    ],
+    "ASF": [
+        [
+            "apache software foundation",
+            1
+        ],
+        [
+            "african swine fever",
+            1
+        ]
+    ],
+    "AKS": [
+        [
+            "almost known sets",
+            1
+        ],
+        [
+            "asimmetric kernel scaling",
+            1
+        ]
+    ],
+    "ICE": [
+        [
+            "intrinsic control error",
+            1
+        ],
+        [
+            "interactive connectivity establishment",
+            1
+        ]
+    ],
+    "PDP": [
+        [
+            "partial dependence plots",
+            1
+        ],
+        [
+            "product display page",
+            1
+        ],
+        [
+            "policy decision point",
+            1
+        ]
+    ],
+    "RD": [
+        [
+            "real data",
+            1
+        ],
+        [
+            "residual denoiser",
+            1
+        ],
+        [
+            "research and development",
+            1
+        ],
+        [
+            "relative difference",
+            1
+        ],
+        [
+            "reciprocal degree",
+            1
+        ]
+    ],
+    "IT": [
+        [
+            "iris thickness",
+            1
+        ],
+        [
+            "immediate threshold",
+            1
+        ],
+        [
+            "inferior temporal",
+            1
+        ],
+        [
+            "image translation",
+            1
+        ]
+    ],
+    "CBP": [
+        [
+            "coprime blur pairs",
+            1
+        ],
+        [
+            "compact bilinear pooling",
+            1
+        ]
+    ],
+    "RFS": [
+        [
+            "random finite set",
+            1
+        ],
+        [
+            "rain fog snow",
+            1
+        ]
+    ],
+    "IFD": [
+        [
+            "indian face database",
+            1
+        ],
+        [
+            "icelandic frequency dictionary",
+            1
+        ]
+    ],
+    "CDR": [
+        [
+            "call detail records",
+            1
+        ],
+        [
+            "critical design review",
+            1
+        ],
+        [
+            "clock difference relations",
+            1
+        ]
+    ],
+    "DBP": [
+        [
+            "discrete base problem",
+            1
+        ],
+        [
+            "determinisable by pruning",
+            1
+        ],
+        [
+            "digital back propagation",
+            1
+        ]
+    ],
+    "BLE": [
+        [
+            "bluetooth low energy",
+            1
+        ],
+        [
+            "bilingual lexicon extraction",
+            1
+        ]
+    ],
+    "RTF": [
+        [
+            "region templates framework",
+            1
+        ],
+        [
+            "real time factor",
+            1
+        ]
+    ],
+    "BSP": [
+        [
+            "binary space partitioning",
+            1
+        ],
+        [
+            "bulk synchronous parallel",
+            1
+        ]
+    ],
+    "RCA": [
+        [
+            "root certificate authority",
+            1
+        ],
+        [
+            "ripple carry adder",
+            1
+        ],
+        [
+            "root cause analysis",
+            1
+        ],
+        [
+            "reverse classification accuracy",
+            1
+        ]
+    ],
+    "LBP": [
+        [
+            "local binary pattern",
+            1
+        ],
+        [
+            "loopy belief propagation",
+            1
+        ]
+    ],
+    "LML": [
+        [
+            "lifelong metric learning",
+            1
+        ],
+        [
+            "log marginal likelihood",
+            1
+        ],
+        [
+            "lifelong machine learning",
+            1
+        ]
+    ],
+    "ADF": [
+        [
+            "anisotropic diffusion filter",
+            1
+        ],
+        [
+            "automatically defined function",
+            1
+        ]
+    ],
+    "DML": [
+        [
+            "data modification layer",
+            1
+        ],
+        [
+            "declarative ml language",
+            1
+        ]
+    ],
+    "BQ": [
+        [
+            "basic question",
+            1
+        ],
+        [
+            "bayesian quadrature",
+            1
+        ]
+    ],
+    "LA": [
+        [
+            "logical access",
+            1
+        ],
+        [
+            "layout analysis",
+            1
+        ],
+        [
+            "left atrium",
+            1
+        ],
+        [
+            "location area",
+            1
+        ]
+    ],
+    "NPR": [
+        [
+            "near perfect reconstruction",
+            1
+        ],
+        [
+            "normalized probabilistic rand",
+            1
+        ]
+    ],
+    "PEP": [
+        [
+            "permission enforcement point",
+            1
+        ],
+        [
+            "policy enforcement point",
+            1
+        ]
+    ],
+    "PPT": [
+        [
+            "pignistic probability transformation",
+            1
+        ],
+        [
+            "privacy preserving techniques",
+            1
+        ]
+    ],
+    "DMA": [
+        [
+            "direct memory access",
+            1
+        ],
+        [
+            "dynamic mechanical analysis",
+            1
+        ],
+        [
+            "data market austria",
+            1
+        ]
+    ],
+    "SDF": [
+        [
+            "side - stream dark field",
+            1
+        ],
+        [
+            "signed distance function",
+            1
+        ],
+        [
+            "signed distance field",
+            1
+        ]
+    ],
+    "SU": [
+        [
+            "symmetric uncertainty",
+            1
+        ],
+        [
+            "secondary user",
+            1
+        ]
+    ],
+    "RPG": [
+        [
+            "relevance proximity graph",
+            1
+        ],
+        [
+            "robust principal graph",
+            1
+        ]
+    ],
+    "PIT": [
+        [
+            "permutation invariant training",
+            1
+        ],
+        [
+            "pending interest table",
+            1
+        ]
+    ],
+    "CB": [
+        [
+            "code block",
+            1
+        ],
+        [
+            "content - based",
+            1
+        ],
+        [
+            "circular buffered",
+            1
+        ],
+        [
+            "compression benchmark",
+            1
+        ],
+        [
+            "causal box",
+            1
+        ]
+    ],
+    "DMF": [
+        [
+            "dynamic mode factorization",
+            1
+        ],
+        [
+            "drone - cell management frame",
+            1
+        ]
+    ],
+    "DBA": [
+        [
+            "dtw barycenter averaging",
+            1
+        ],
+        [
+            "deterministic buchi automaton",
+            1
+        ]
+    ],
+    "SRL": [
+        [
+            "semantic role labeling",
+            1
+        ],
+        [
+            "state representation learning",
+            1
+        ],
+        [
+            "statistical relational learning",
+            1
+        ]
+    ],
+    "RQ": [
+        [
+            "research question",
+            1
+        ],
+        [
+            "reformulated queries",
+            1
+        ]
+    ],
+    "SBM": [
+        [
+            "stochastic block model",
+            1
+        ],
+        [
+            "sequential monte carlo",
+            1
+        ],
+        [
+            "standard bit mutations",
+            1
+        ],
+        [
+            "shape boltzmann machine",
+            1
+        ]
+    ],
+    "FJ": [
+        [
+            "friendly jamming",
+            1
+        ],
+        [
+            "featherweight java",
+            1
+        ]
+    ],
+    "SPF": [
+        [
+            "structure propagation fusion",
+            1
+        ],
+        [
+            "shortest path forest",
+            1
+        ]
+    ],
+    "HM": [
+        [
+            "harmonic mean",
+            1
+        ],
+        [
+            "hybrid model",
+            1
+        ]
+    ],
+    "LOD": [
+        [
+            "linked open data",
+            1
+        ],
+        [
+            "level of detail",
+            1
+        ]
+    ],
+    "GTD": [
+        [
+            "grasp type detection",
+            1
+        ],
+        [
+            "grasp type dataset",
+            1
+        ]
+    ],
+    "TCR": [
+        [
+            "trap control register",
+            1
+        ],
+        [
+            "transductive cascaded regression",
+            1
+        ]
+    ],
+    "LE": [
+        [
+            "low energy",
+            1
+        ],
+        [
+            "label equivalence",
+            1
+        ]
+    ],
+    "LCS": [
+        [
+            "longest common subsequence",
+            1
+        ],
+        [
+            "local causal states",
+            1
+        ]
+    ],
+    "FAST": [
+        [
+            "features from accelerated segment test",
+            1
+        ],
+        [
+            "file and storage technologies",
+            1
+        ]
+    ],
+    "SSE": [
+        [
+            "streaming simd extensions",
+            1
+        ],
+        [
+            "spherical semantic embedding",
+            1
+        ]
+    ],
+    "DSR": [
+        [
+            "dynamic sparse reparameterization",
+            1
+        ],
+        [
+            "dynamic source routing",
+            1
+        ]
+    ],
+    "GPM": [
+        [
+            "graph pattern matching",
+            1
+        ],
+        [
+            "matchinggraph pattern matching",
+            1
+        ]
+    ],
+    "VR": [
+        [
+            "virtual reality",
+            1
+        ],
+        [
+            "visibility region",
+            1
+        ],
+        [
+            "vigilance reward",
+            1
+        ]
+    ],
+    "MPA": [
+        [
+            "music performance analysis",
+            1
+        ],
+        [
+            "message passing algorithm",
+            1
+        ]
+    ],
+    "SAN": [
+        [
+            "semantic alignment network",
+            1
+        ],
+        [
+            "saturation analysis",
+            1
+        ],
+        [
+            "subject alternate name",
+            1
+        ],
+        [
+            "stacked attention network",
+            1
+        ],
+        [
+            "self attention network",
+            1
+        ]
+    ],
+    "SSI": [
+        [
+            "subspace system identification",
+            1
+        ],
+        [
+            "social system identification",
+            1
+        ],
+        [
+            "software sustainability institute",
+            1
+        ]
+    ],
+    "TDM": [
+        [
+            "technical debt management",
+            1
+        ],
+        [
+            "temporal difference model",
+            1
+        ],
+        [
+            "time division multiplexing",
+            1
+        ]
+    ],
+    "NS": [
+        [
+            "network science",
+            1
+        ],
+        [
+            "negative sampling",
+            1
+        ],
+        [
+            "neutron star",
+            1
+        ]
+    ],
+    "SUs": [
+        [
+            "secondary users",
+            1
+        ],
+        [
+            "spectrum usage",
+            1
+        ]
+    ],
+    "PBS": [
+        [
+            "primary base station",
+            1
+        ],
+        [
+            "public broadcasting service",
+            1
+        ]
+    ],
+    "PCL": [
+        [
+            "positive coalgebraic logics",
+            1
+        ],
+        [
+            "point cloud library",
+            1
+        ],
+        [
+            "path consistency learning",
+            1
+        ]
+    ],
+    "DMN": [
+        [
+            "dynamic memory network",
+            1
+        ],
+        [
+            "default mode network",
+            1
+        ]
+    ],
+    "SFM": [
+        [
+            "social force model",
+            1
+        ],
+        [
+            "structural factorization machine",
+            1
+        ],
+        [
+            "structure from motion",
+            1
+        ]
+    ],
+    "GF": [
+        [
+            "guided filtering",
+            1
+        ],
+        [
+            "gabor filter",
+            1
+        ]
+    ],
+    "CDP": [
+        [
+            "centralized differential privacy",
+            1
+        ],
+        [
+            "classical dynamic programming",
+            1
+        ]
+    ],
+    "SAM": [
+        [
+            "semi - autonomous machine",
+            1
+        ],
+        [
+            "speaker - addressee model",
+            1
+        ],
+        [
+            "search of associative memory",
+            1
+        ],
+        [
+            "self - assessment manikin",
+            1
+        ]
+    ],
+    "TM": [
+        [
+            "tone mapping",
+            1
+        ],
+        [
+            "teacher mark",
+            1
+        ],
+        [
+            "turing machine",
+            1
+        ]
+    ],
+    "DADA": [
+        [
+            "distributed affinity dual approximation",
+            1
+        ],
+        [
+            "dual adversarial domain adaptation",
+            1
+        ]
+    ],
+    "DEC": [
+        [
+            "deep embedded clustering",
+            1
+        ],
+        [
+            "dense - captioning event",
+            1
+        ]
+    ],
+    "CNL": [
+        [
+            "controlled natural language",
+            1
+        ],
+        [
+            "certain natural language",
+            1
+        ]
+    ],
+    "PIN": [
+        [
+            "proposal indexing network",
+            1
+        ],
+        [
+            "phrase indexing network",
+            1
+        ]
+    ],
+    "USD": [
+        [
+            "unmet system demand",
+            1
+        ],
+        [
+            "unambiguous state discrimination",
+            1
+        ]
+    ],
+    "HC": [
+        [
+            "healthy control",
+            1
+        ],
+        [
+            "hill - climbing",
+            1
+        ],
+        [
+            "hierarchical classification",
+            1
+        ]
+    ],
+    "GSP": [
+        [
+            "generalized second price",
+            1
+        ],
+        [
+            "global statistics pooling",
+            1
+        ]
+    ],
+    "ESS": [
+        [
+            "effective sample size",
+            1
+        ],
+        [
+            "evolutionary stable strategies",
+            1
+        ]
+    ],
+    "LDS": [
+        [
+            "low density spreading",
+            1
+        ],
+        [
+            "linear dynamical system",
+            1
+        ]
+    ],
+    "ARD": [
+        [
+            "adversarially robust distillation",
+            1
+        ],
+        [
+            "automatic relevance determination",
+            1
+        ],
+        [
+            "accelerated robust distillation",
+            1
+        ]
+    ],
+    "NL": [
+        [
+            "network lifetime",
+            1
+        ],
+        [
+            "natural language",
+            1
+        ]
+    ],
+    "ILS": [
+        [
+            "incomplete lineage sorting",
+            1
+        ],
+        [
+            "iterated local search",
+            1
+        ]
+    ],
+    "AML": [
+        [
+            "adversarial machine learning",
+            1
+        ],
+        [
+            "actor modeling language",
+            1
+        ]
+    ],
+    "MN": [
+        [
+            "mobile network",
+            1
+        ],
+        [
+            "master node",
+            1
+        ],
+        [
+            "memory networks",
+            1
+        ],
+        [
+            "mobile node",
+            1
+        ]
+    ],
+    "SED": [
+        [
+            "soft edit distance",
+            1
+        ],
+        [
+            "sound event detection",
+            1
+        ],
+        [
+            "standard edit distance",
+            1
+        ]
+    ],
+    "UDP": [
+        [
+            "user datagram protocol",
+            1
+        ],
+        [
+            "universal dependency parse",
+            1
+        ]
+    ],
+    "SSL": [
+        [
+            "structural sparsity learning",
+            1
+        ],
+        [
+            "scleral spur location",
+            1
+        ],
+        [
+            "semi supervised learning",
+            1
+        ]
+    ],
+    "SCR": [
+        [
+            "scratch",
+            1
+        ],
+        [
+            "sparse compositional regression",
+            1
+        ],
+        [
+            "skin conductance response",
+            1
+        ]
+    ],
+    "CKA": [
+        [
+            "concurrent kleene algebra",
+            1
+        ],
+        [
+            "centered kernel alignment",
+            1
+        ]
+    ],
+    "RDS": [
+        [
+            "relational database service",
+            1
+        ],
+        [
+            "running digital sum",
+            1
+        ]
+    ],
+    "WF": [
+        [
+            "white females",
+            1
+        ],
+        [
+            "weighted fusion",
+            1
+        ]
+    ],
+    "TBB": [
+        [
+            "tor browser bundle",
+            1
+        ],
+        [
+            "threading building blocks",
+            1
+        ]
+    ],
+    "DI": [
+        [
+            "document index",
+            1
+        ],
+        [
+            "dyadic indicator",
+            1
+        ],
+        [
+            "direct inspection",
+            1
+        ],
+        [
+            "dependency injection",
+            1
+        ]
+    ],
+    "TPD": [
+        [
+            "turbo product decoder",
+            1
+        ],
+        [
+            "total project delay",
+            1
+        ]
+    ],
+    "NIC": [
+        [
+            "neural image caption",
+            1
+        ],
+        [
+            "network interface card",
+            1
+        ]
+    ],
+    "DSA": [
+        [
+            "data science and analytics",
+            1
+        ],
+        [
+            "digital signature algorithm",
+            1
+        ]
+    ],
+    "MRS": [
+        [
+            "magnetic resonance spectroscopy",
+            1
+        ],
+        [
+            "multiset rewriting systems",
+            1
+        ]
+    ],
+    "CO": [
+        [
+            "context - only attention",
+            1
+        ],
+        [
+            "carbon - oxygen",
+            1
+        ]
+    ],
+    "NSP": [
+        [
+            "neural sequence prediction",
+            1
+        ],
+        [
+            "next sentence prediction",
+            1
+        ]
+    ],
+    "FG": [
+        [
+            "favoured granted",
+            1
+        ],
+        [
+            "filter gate",
+            1
+        ]
+    ],
+    "BSC": [
+        [
+            "binary symmetric channel",
+            1
+        ],
+        [
+            "base station controller",
+            1
+        ]
+    ],
+    "BSD": [
+        [
+            "blind spot detection",
+            1
+        ],
+        [
+            "berkeley segmentation dataset",
+            1
+        ]
+    ],
+    "FPS": [
+        [
+            "frame per second",
+            1
+        ],
+        [
+            "false projection selection",
+            1
+        ]
+    ],
+    "SPS": [
+        [
+            "signal processing systems",
+            1
+        ],
+        [
+            "surcharge pricing scheme",
+            1
+        ],
+        [
+            "signal probability skey",
+            1
+        ]
+    ],
+    "PPE": [
+        [
+            "per - pixel - error",
+            1
+        ],
+        [
+            "predictive performance equation",
+            1
+        ]
+    ],
+    "EMS": [
+        [
+            "elevated mean scan statistic",
+            1
+        ],
+        [
+            "event management system",
+            1
+        ],
+        [
+            "elevated mean scan",
+            1
+        ]
+    ],
+    "FAR": [
+        [
+            "false acceptance rate",
+            1
+        ],
+        [
+            "flow annotation replanning",
+            1
+        ]
+    ],
+    "CFD": [
+        [
+            "computational fluid dynamics",
+            1
+        ],
+        [
+            "carrier frequency difference",
+            1
+        ]
+    ],
+    "DSO": [
+        [
+            "direct sparse odometry",
+            1
+        ],
+        [
+            "distribution system operator",
+            1
+        ]
+    ],
+    "DTP": [
+        [
+            "difference target propagation",
+            1
+        ],
+        [
+            "dynamic trajectory predictor",
+            1
+        ]
+    ],
+    "GI": [
+        [
+            "gradient initialization",
+            1
+        ],
+        [
+            "graph isomorphism",
+            1
+        ]
+    ],
+    "SSS": [
+        [
+            "staggered sample selection",
+            1
+        ],
+        [
+            "stochastically stable states",
+            1
+        ]
+    ],
+    "DST": [
+        [
+            "dialogue state tracker",
+            1
+        ],
+        [
+            "discrete sine transform",
+            1
+        ]
+    ],
+    "ID": [
+        [
+            "item description",
+            1
+        ],
+        [
+            "information decoding",
+            1
+        ],
+        [
+            "input data",
+            1
+        ],
+        [
+            "interleaved declustering",
+            1
+        ]
+    ],
+    "FEA": [
+        [
+            "factored evolutionary algorithms",
+            1
+        ],
+        [
+            "finite element analysis",
+            1
+        ]
+    ],
+    "SB": [
+        [
+            "systems biology",
+            1
+        ],
+        [
+            "symmetry breaking",
+            1
+        ]
+    ],
+    "SG": [
+        [
+            "skip gram",
+            1
+        ],
+        [
+            "stochastic gradient",
+            1
+        ]
+    ],
+    "CLT": [
+        [
+            "central limit theorem",
+            1
+        ],
+        [
+            "cognitive load theory",
+            1
+        ]
+    ],
+    "MET": [
+        [
+            "michigan english test",
+            1
+        ],
+        [
+            "multi - edge type",
+            1
+        ]
+    ],
+    "GSR": [
+        [
+            "geographic source routing",
+            1
+        ],
+        [
+            "group sparsity residual",
+            1
+        ],
+        [
+            "group sparse representation",
+            1
+        ]
+    ],
+    "GPR": [
+        [
+            "gaussian process regression",
+            1
+        ],
+        [
+            "gamma passing rate",
+            1
+        ]
+    ],
+    "STA": [
+        [
+            "static timing analysis",
+            1
+        ],
+        [
+            "super - twisting algorithms",
+            1
+        ]
+    ],
+    "HMC": [
+        [
+            "hybrid monte carlo",
+            1
+        ],
+        [
+            "hamiltonian monte carlo",
+            1
+        ]
+    ],
+    "LSM": [
+        [
+            "laplacian - based shape matching",
+            1
+        ],
+        [
+            "lock sweeping method",
+            1
+        ]
+    ],
+    "IO": [
+        [
+            "inverse optimization",
+            1
+        ],
+        [
+            "iterative optimization",
+            1
+        ],
+        [
+            "interacting object",
+            1
+        ]
+    ],
+    "LAP": [
+        [
+            "low altitude platform",
+            1
+        ],
+        [
+            "linear assignment problem",
+            1
+        ]
+    ],
+    "LTP": [
+        [
+            "licklider transmission protocol",
+            1
+        ],
+        [
+            "long term potentiation",
+            1
+        ]
+    ],
+    "GMS": [
+        [
+            "grid - based motion statistics",
+            1
+        ],
+        [
+            "gaussian material synthesis",
+            1
+        ]
+    ],
+    "DCM": [
+        [
+            "dynamics canalization map",
+            1
+        ],
+        [
+            "discontinuous conduction mode",
+            1
+        ],
+        [
+            "deep choice model",
+            1
+        ],
+        [
+            "discrete choice models",
+            1
+        ],
+        [
+            "device configuration manager",
+            1
+        ]
+    ],
+    "MGE": [
+        [
+            "minimum generation error",
+            1
+        ],
+        [
+            "multi - granularity embedding",
+            1
+        ]
+    ],
+    "MCS": [
+        [
+            "maximal consistent set",
+            1
+        ],
+        [
+            "modulation and coding scheme",
+            1
+        ],
+        [
+            "maximum cardinality search",
+            1
+        ]
+    ],
+    "OP": [
+        [
+            "orthogonal procrustes",
+            1
+        ],
+        [
+            "old persian",
+            1
+        ],
+        [
+            "outage probability",
+            1
+        ],
+        [
+            "original precision",
+            1
+        ],
+        [
+            "orienteering problem",
+            1
+        ]
+    ],
+    "CWE": [
+        [
+            "common weakness enumeration",
+            1
+        ],
+        [
+            "character - enhanced word embedding",
+            1
+        ],
+        [
+            "chinese word embeddings",
+            1
+        ]
+    ],
+    "MSR": [
+        [
+            "minimum storage regenerating",
+            1
+        ],
+        [
+            "mining software repositories",
+            1
+        ]
+    ],
+    "PT": [
+        [
+            "piecewise -testable",
+            1
+        ],
+        [
+            "physical therapy",
+            1
+        ],
+        [
+            "productive time",
+            1
+        ],
+        [
+            "proof time",
+            1
+        ]
+    ],
+    "PBRT": [
+        [
+            "physically based renderer",
+            1
+        ],
+        [
+            "physically based ray tracing",
+            1
+        ]
+    ],
+    "NHS": [
+        [
+            "national health service",
+            1
+        ],
+        [
+            "nurses ' health study",
+            1
+        ]
+    ],
+    "LSC": [
+        [
+            "leicester scientific corpus",
+            1
+        ],
+        [
+            "long skip connections",
+            1
+        ]
+    ],
+    "STL": [
+        [
+            "single task learning",
+            1
+        ],
+        [
+            "signal temporal logic",
+            1
+        ],
+        [
+            "standard template library",
+            1
+        ]
+    ],
+    "SBS": [
+        [
+            "swedish blog sentences",
+            1
+        ],
+        [
+            "small - cell base stations",
+            1
+        ]
+    ],
+    "PAA": [
+        [
+            "piecewise aggregation approximation",
+            1
+        ],
+        [
+            "principal axis analysis",
+            1
+        ]
+    ],
+    "CPS": [
+        [
+            "common phone set",
+            1
+        ],
+        [
+            "current population survey",
+            1
+        ]
+    ],
+    "MVP": [
+        [
+            "mitral valve prolapse",
+            1
+        ],
+        [
+            "million veterans program",
+            1
+        ]
+    ],
+    "MPB": [
+        [
+            "matrix pair beamformer",
+            1
+        ],
+        [
+            "modified poisson blending",
+            1
+        ]
+    ],
+    "MIS": [
+        [
+            "multiple importance sampling",
+            1
+        ],
+        [
+            "maximal independent set",
+            1
+        ]
+    ],
+    "LF": [
+        [
+            "large faces",
+            1
+        ],
+        [
+            "late fusion",
+            1
+        ],
+        [
+            "line feeds",
+            1
+        ]
+    ],
+    "SOC": [
+        [
+            "security operations center",
+            1
+        ],
+        [
+            "standard occupation classification",
+            1
+        ],
+        [
+            "state of charge",
+            1
+        ]
+    ],
+    "IVR": [
+        [
+            "interactive voice response",
+            1
+        ],
+        [
+            "immersive virtual reality",
+            1
+        ]
+    ],
+    "IA": [
+        [
+            "intent analyst",
+            1
+        ],
+        [
+            "interval analysis",
+            1
+        ],
+        [
+            "incremental approximation",
+            1
+        ],
+        [
+            "interference alignment",
+            1
+        ]
+    ],
+    "IFT": [
+        [
+            "information foraging theory",
+            1
+        ],
+        [
+            "information flow tracking",
+            1
+        ]
+    ],
+    "ARS": [
+        [
+            "augmented random search",
+            1
+        ],
+        [
+            "addressee and response selection",
+            1
+        ]
+    ],
+    "SCS": [
+        [
+            "statistical compressed sensing",
+            1
+        ],
+        [
+            "shortest common superstring",
+            1
+        ],
+        [
+            "spoken conversational search",
+            1
+        ],
+        [
+            "sub - carrier spacing",
+            1
+        ]
+    ],
+    "SQA": [
+        [
+            "semantic question answering",
+            1
+        ],
+        [
+            "spoken question answering",
+            1
+        ]
+    ],
+    "AWE": [
+        [
+            "averaged word embeddings",
+            1
+        ],
+        [
+            "address windowing extensions",
+            1
+        ]
+    ],
+    "TAS": [
+        [
+            "transverse abdominal section",
+            1
+        ],
+        [
+            "transmit antenna selection",
+            1
+        ]
+    ],
+    "IE": [
+        [
+            "information extraction",
+            1
+        ],
+        [
+            "intelligent element",
+            1
+        ],
+        [
+            "integral equation",
+            1
+        ]
+    ],
+    "CEM": [
+        [
+            "causal effect map",
+            1
+        ],
+        [
+            "circled entropy measurement",
+            1
+        ],
+        [
+            "cross entropy methods",
+            1
+        ]
+    ],
+    "UM": [
+        [
+            "user model",
+            1
+        ],
+        [
+            "upsampling module",
+            1
+        ]
+    ],
+    "ILM": [
+        [
+            "internal limiting membrane",
+            1
+        ],
+        [
+            "information lifecycle management",
+            1
+        ]
+    ],
+    "RGB": [
+        [
+            "red , green , blue",
+            1
+        ],
+        [
+            "red giant branch",
+            1
+        ]
+    ],
+    "CSG": [
+        [
+            "cumulative spectral gradient",
+            1
+        ],
+        [
+            "cost sharing game",
+            1
+        ]
+    ],
+    "PPC": [
+        [
+            "peak power contract",
+            1
+        ],
+        [
+            "pay per click",
+            1
+        ]
+    ],
+    "EMG": [
+        [
+            "eight medical grade",
+            1
+        ],
+        [
+            "electromyograph",
+            1
+        ]
+    ],
+    "DSP": [
+        [
+            "digital signal processing",
+            1
+        ],
+        [
+            "discrete sequence production",
+            1
+        ]
+    ],
+    "MVF": [
+        [
+            "maximum voice frequency",
+            1
+        ],
+        [
+            "matching vector families",
+            1
+        ]
+    ],
+    "FDA": [
+        [
+            "fisher 's discriminant analysis",
+            1
+        ],
+        [
+            "functional data analysis",
+            1
+        ]
+    ],
+    "TDA": [
+        [
+            "topological data analysis",
+            1
+        ],
+        [
+            "targeted degree - based attack",
+            1
+        ]
+    ],
+    "ERB": [
+        [
+            "equivalent rectangular bandwidth",
+            1
+        ],
+        [
+            "enhanced residual block",
+            1
+        ]
+    ],
+    "EHS": [
+        [
+            "enhanced hybrid simultaneous",
+            1
+        ],
+        [
+            "enhanced hybrid swipt protocol",
+            1
+        ]
+    ],
+    "SIR": [
+        [
+            "sequential importance resampling",
+            1
+        ],
+        [
+            "source to interferences ratio",
+            1
+        ]
+    ],
+    "EMF": [
+        [
+            "explicit matrix factorization",
+            1
+        ],
+        [
+            "eclipse modeling framework",
+            1
+        ],
+        [
+            "electromagnetic fields",
+            1
+        ]
+    ],
+    "DLS": [
+        [
+            "derandomized local search",
+            1
+        ],
+        [
+            "depth - limited search",
+            1
+        ]
+    ],
+    "AIDA": [
+        [
+            "analytic imaging diagnostics arena",
+            1
+        ],
+        [
+            "atomic , independent , declarative , and absolute",
+            1
+        ]
+    ],
+    "NTM": [
+        [
+            "neural turing machine",
+            1
+        ],
+        [
+            "neural topic model",
+            1
+        ]
+    ],
+    "DNS": [
+        [
+            "domain name system",
+            1
+        ],
+        [
+            "domain name service",
+            1
+        ]
+    ],
+    "EF": [
+        [
+            "expedited forwarding",
+            1
+        ],
+        [
+            "ejection fraction",
+            1
+        ],
+        [
+            "error feedback",
+            1
+        ]
+    ],
+    "MTC": [
+        [
+            "movie triplets corpus",
+            1
+        ],
+        [
+            "machine type communications",
+            1
+        ]
+    ],
+    "ISM": [
+        [
+            "interactive skill modules",
+            1
+        ],
+        [
+            "industrial , scientific and medical",
+            1
+        ]
+    ],
+    "PTS": [
+        [
+            "partial transmit sequences",
+            1
+        ],
+        [
+            "public transportation system",
+            1
+        ]
+    ],
+    "PDT": [
+        [
+            "pulse discrete time",
+            1
+        ],
+        [
+            "poisson delaunay tessellations",
+            1
+        ]
+    ],
+    "PWM": [
+        [
+            "pulse width modulation",
+            1
+        ],
+        [
+            "partial weighted matching",
+            1
+        ]
+    ],
+    "GCD": [
+        [
+            "graphlet correlation distance",
+            1
+        ],
+        [
+            "greatest common divisor",
+            1
+        ]
+    ],
+    "CCG": [
+        [
+            "calling contexts graphs",
+            1
+        ],
+        [
+            "combinatory categorial grammar",
+            1
+        ],
+        [
+            "chromatic correction gratings",
+            1
+        ]
+    ],
+    "MCP": [
+        [
+            "mean closest points",
+            1
+        ],
+        [
+            "matern cluster process",
+            1
+        ]
+    ],
+    "OR": [
+        [
+            "optic radiation",
+            1
+        ],
+        [
+            "operations research",
+            1
+        ],
+        [
+            "opportunistic relaying",
+            1
+        ]
+    ],
+    "DPN": [
+        [
+            "dual path network",
+            1
+        ],
+        [
+            "deep pyramid network",
+            1
+        ]
+    ],
+    "LTT": [
+        [
+            "lunar transfer trajectory",
+            1
+        ],
+        [
+            "locally threshold testable",
+            1
+        ]
+    ],
+    "MED": [
+        [
+            "minimal edit distance",
+            1
+        ],
+        [
+            "multimedia event detection",
+            1
+        ]
+    ],
+    "FER": [
+        [
+            "frame error rate",
+            1
+        ],
+        [
+            "facial expression recognition",
+            1
+        ]
+    ],
+    "AE": [
+        [
+            "autoencoder",
+            1
+        ],
+        [
+            "associative experiment",
+            1
+        ],
+        [
+            "absolute error",
+            1
+        ],
+        [
+            "answer extraction",
+            1
+        ]
+    ],
+    "BPP": [
+        [
+            "bits per pixel",
+            1
+        ],
+        [
+            "binomial point process",
+            1
+        ]
+    ],
+    "APD": [
+        [
+            "average perpendicular distance",
+            1
+        ],
+        [
+            "artifact pyramid decoding",
+            1
+        ]
+    ],
+    "SEM": [
+        [
+            "scanning electron microscopy",
+            1
+        ],
+        [
+            "squared entropy measurement",
+            1
+        ],
+        [
+            "simple event model",
+            1
+        ]
+    ],
+    "PTM": [
+        [
+            "point - to - multipoint",
+            1
+        ],
+        [
+            "persistent turing machine",
+            1
+        ]
+    ],
+    "CWT": [
+        [
+            "continuous wavelet transform",
+            1
+        ],
+        [
+            "complex wavelet transform",
+            1
+        ]
+    ],
+    "TA": [
+        [
+            "transmission antennas",
+            1
+        ],
+        [
+            "threshold algorithm",
+            1
+        ]
+    ],
+    "HOG": [
+        [
+            "histogram of gradients",
+            1
+        ],
+        [
+            "histogram of oriented gradient",
+            1
+        ]
+    ],
+    "NCE": [
+        [
+            "normalized cumulative entropy",
+            1
+        ],
+        [
+            "noise contrastive estimation",
+            1
+        ]
+    ],
+    "EP": [
+        [
+            "entrance pupil",
+            1
+        ],
+        [
+            "exponent parikh",
+            1
+        ],
+        [
+            "efficient path",
+            1
+        ],
+        [
+            "evolutionary programming",
+            1
+        ],
+        [
+            "europarl",
+            1
+        ]
+    ],
+    "COP": [
+        [
+            "correlated orienteering problem",
+            1
+        ],
+        [
+            "centralized optimization problem",
+            1
+        ]
+    ],
+    "QMA": [
+        [
+            "quantitative myotonia assessment",
+            1
+        ],
+        [
+            "quantum merlin arthur",
+            1
+        ]
+    ],
+    "MRT": [
+        [
+            "minimum risk training",
+            1
+        ],
+        [
+            "maximum ratio transmission",
+            1
+        ]
+    ],
+    "VCC": [
+        [
+            "vibrational coupled cluster",
+            1
+        ],
+        [
+            "vehicular cloud computing",
+            1
+        ]
+    ],
+    "RIC": [
+        [
+            "restricted isometry constant",
+            1
+        ],
+        [
+            "risk inflation criterion",
+            1
+        ]
+    ],
+    "MV": [
+        [
+            "mitral valve",
+            1
+        ],
+        [
+            "memory vector",
+            1
+        ]
+    ],
+    "OCT": [
+        [
+            "optical coherence tomography",
+            1
+        ],
+        [
+            "odd cycle transversal",
+            1
+        ]
+    ],
+    "OA": [
+        [
+            "open access",
+            1
+        ],
+        [
+            "ocular artifacts",
+            1
+        ],
+        [
+            "orthogonal array",
+            1
+        ]
+    ],
+    "TBA": [
+        [
+            "targeted betweenness - based attack",
+            1
+        ],
+        [
+            "tailor based allocation",
+            1
+        ]
+    ],
+    "IDE": [
+        [
+            "integrated development environment",
+            1
+        ],
+        [
+            "interprocedural distributive environment",
+            1
+        ]
+    ],
+    "DCH": [
+        [
+            "dynamic competition hypothesis",
+            1
+        ],
+        [
+            "discriminant cross - modal hashing",
+            1
+        ]
+    ],
+    "GAM": [
+        [
+            "generalized additive models",
+            1
+        ],
+        [
+            "generative adversarial metric",
+            1
+        ]
+    ],
+    "TVD": [
+        [
+            "total variation diminishing",
+            1
+        ],
+        [
+            "threshold voltage defined",
+            1
+        ]
+    ],
+    "RUM": [
+        [
+            "random utility modelwe",
+            1
+        ],
+        [
+            "random utility maximization",
+            1
+        ]
+    ],
+    "TRI": [
+        [
+            "temporal random indexing",
+            1
+        ],
+        [
+            "toyota research institute",
+            1
+        ]
+    ],
+    "QR": [
+        [
+            "quantile regression",
+            1
+        ],
+        [
+            "quadruple range",
+            1
+        ]
+    ],
+    "MB": [
+        [
+            "motion blurring",
+            1
+        ],
+        [
+            "model - based",
+            1
+        ],
+        [
+            "maximal biclique",
+            1
+        ]
+    ],
+    "AFC": [
+        [
+            "atomic function computation",
+            1
+        ],
+        [
+            "automated fare collection(afc",
+            1
+        ],
+        [
+            "automatic fact checking",
+            1
+        ]
+    ],
+    "PSL": [
+        [
+            "power service layer",
+            1
+        ],
+        [
+            "probabilistic soft logic",
+            1
+        ]
+    ],
+    "RPL": [
+        [
+            "recurrent power law",
+            1
+        ],
+        [
+            "routing protocol for low - power and lossy networks",
+            1
+        ]
+    ],
+    "SPAM": [
+        [
+            "subtractive pixel adjacency matrix",
+            1
+        ],
+        [
+            "state preparation and measurement errors",
+            1
+        ]
+    ],
+    "PSM": [
+        [
+            "patient side manipulator",
+            1
+        ],
+        [
+            "precoding - aided spatial modulation",
+            1
+        ]
+    ],
+    "NI": [
+        [
+            "new instances",
+            1
+        ],
+        [
+            "neat image",
+            1
+        ],
+        [
+            "national instruments",
+            1
+        ],
+        [
+            "noun incorporation",
+            1
+        ],
+        [
+            "network interface",
+            1
+        ]
+    ],
+    "OPF": [
+        [
+            "optimal power flow",
+            1
+        ],
+        [
+            "optimal pareto front",
+            1
+        ]
+    ],
+    "DTN": [
+        [
+            "delay tolerant networks",
+            1
+        ],
+        [
+            "domain transfer network",
+            1
+        ],
+        [
+            "disruption tolerant networking",
+            1
+        ]
+    ],
+    "PVI": [
+        [
+            "parabolic variational inequality",
+            1
+        ],
+        [
+            "perpendicular vegetation index",
+            1
+        ]
+    ],
+    "ERR": [
+        [
+            "expected reciprocal rank",
+            1
+        ],
+        [
+            "exact recovery ratio",
+            1
+        ]
+    ],
+    "HI": [
+        [
+            "hubert 's index",
+            1
+        ],
+        [
+            "histogram intersection",
+            1
+        ]
+    ],
+    "TCA": [
+        [
+            "temporal concept analysis",
+            1
+        ],
+        [
+            "task component architecture",
+            1
+        ]
+    ],
+    "NUC": [
+        [
+            "normalized uniformity coefficient",
+            1
+        ],
+        [
+            "next utterance classification",
+            1
+        ]
+    ],
+    "OCM": [
+        [
+            "oz computation model",
+            1
+        ],
+        [
+            "original component manufacturers",
+            1
+        ]
+    ],
+    "CCP": [
+        [
+            "cross conformal prediction",
+            1
+        ],
+        [
+            "convex - concave procedure",
+            1
+        ]
+    ],
+    "JD": [
+        [
+            "joint decoding",
+            1
+        ],
+        [
+            "joint diagonalization",
+            1
+        ]
+    ],
+    "LDE": [
+        [
+            "local discriminant embedding",
+            1
+        ],
+        [
+            "learnable dictionary encoding",
+            1
+        ]
+    ],
+    "UC": [
+        [
+            "universal composability",
+            1
+        ],
+        [
+            "unit commitment",
+            1
+        ]
+    ],
+    "CPD": [
+        [
+            "concave points detection",
+            1
+        ],
+        [
+            "coherent point drift",
+            1
+        ],
+        [
+            "coal mine disaster",
+            1
+        ]
+    ],
+    "HDT": [
+        [
+            "header dictionary triple",
+            1
+        ],
+        [
+            "header , dictionary , triples",
+            1
+        ]
+    ],
+    "SSC": [
+        [
+            "shapley share coefficient",
+            1
+        ],
+        [
+            "sparse subspace clustering",
+            1
+        ],
+        [
+            "similarity sensitive coding",
+            1
+        ]
+    ],
+    "PDM": [
+        [
+            "pulse density modulated",
+            1
+        ],
+        [
+            "probability distribution matrix",
+            1
+        ]
+    ],
+    "UCM": [
+        [
+            "use case map",
+            1
+        ],
+        [
+            "ultrametric contour map",
+            1
+        ]
+    ],
+    "ZTD": [
+        [
+            "zenith total delay",
+            1
+        ],
+        [
+            "zenithal tropospheric delays",
+            1
+        ]
+    ],
+    "FCA": [
+        [
+            "formal concept analysis",
+            1
+        ],
+        [
+            "forward capacity auctions",
+            1
+        ]
+    ],
+    "BU": [
+        [
+            "bottom - up",
+            1
+        ],
+        [
+            "bandwidth units",
+            1
+        ]
+    ],
+    "BCL": [
+        [
+            "boolean coalgebraic logics",
+            1
+        ],
+        [
+            "bilateral convolutional layers",
+            1
+        ]
+    ],
+    "AQG": [
+        [
+            "analyze questions generated",
+            1
+        ],
+        [
+            "automatic question generation",
+            1
+        ]
+    ],
+    "CSE": [
+        [
+            "cumulative spectrum energy",
+            1
+        ],
+        [
+            "common subexpression elimination",
+            1
+        ]
+    ],
+    "MRD": [
+        [
+            "mean rank difference",
+            1
+        ],
+        [
+            "maximal ratio diversity",
+            1
+        ]
+    ],
+    "NEM": [
+        [
+            "net energy metering",
+            1
+        ],
+        [
+            "new economy movement",
+            1
+        ]
+    ],
+    "CLI": [
+        [
+            "command line interface",
+            1
+        ],
+        [
+            "cuneiform language identification",
+            1
+        ]
+    ],
+    "MPCA": [
+        [
+            "mobility prediction clustering algorithm",
+            1
+        ],
+        [
+            "multi - linear principal components analysis",
+            1
+        ]
+    ],
+    "QF": [
+        [
+            "query fusion",
+            1
+        ],
+        [
+            "quality factor",
+            1
+        ],
+        [
+            "quadratic form",
+            1
+        ]
+    ],
+    "BOA": [
+        [
+            "butterfly optimization algorithm",
+            1
+        ],
+        [
+            "bilevel optimization algorithm",
+            1
+        ]
+    ],
+    "HP": [
+        [
+            "high prr",
+            1
+        ],
+        [
+            "hawkes processes",
+            1
+        ]
+    ],
+    "CAA": [
+        [
+            "civil aviation authority",
+            1
+        ],
+        [
+            "clump assignment array",
+            1
+        ]
+    ],
+    "ACI": [
+        [
+            "adjacent channel interference",
+            1
+        ],
+        [
+            "artificial collective intelligence",
+            1
+        ]
+    ],
+    "OBS": [
+        [
+            "optical burst - switched",
+            1
+        ],
+        [
+            "optimal brain surgeon",
+            1
+        ]
+    ]
+}
