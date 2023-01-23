@@ -57,6 +57,8 @@ However, due to the size limit of the upload files, you have to download the dic
 After downloading, decompress it and put the two files to this path `input/`
 
 ## Pre-training
+The pre-training corpus can be downloaded from this [link](https://zenodo.org/record/7562925#.Y87_3naZNPY), which contains 160 million sentences with acronyms.
+
 Here we use python3.6 and the Transformers library to implement the model. 
 ```
 pip install -r requirements.txt
