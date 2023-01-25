@@ -53,7 +53,7 @@ This benchmark covers three domains: general, scientific and biomedical.
 The acronym dictionary is stored in this file: `input/dataset/acronym_kb.json`, which includes 1.5M acronyms
 and 6.4M long forms.
 However, due to the size limit of the upload files, you have to download the dictionary (with the AcroBERT model together) from this dropbox link:
-[dictionary and model](https://www.dropbox.com/s/bptkcmqynemw5rt/dictionary%26model.zip?dl=1). 
+[dictionary and model](https://zenodo.org/record/7568921#.Y9FA5XaZNPY). 
 After downloading, decompress it and put the two files to this path `input/`
 
 ## Pre-training
