@@ -57,7 +57,7 @@ The entire pre-training needs two weeks on a single NVIDIA Tesla V100S PCIe 32 G
 ### Quick Reproduction
 We provide a one-line command to reproduce the scores in Table A1,
 which is the easiest one to reproduce, and you can see the scores after only several minutes. 
-The needed test sets are store in this path `/evaluation/test_set`, and you can find three evaluation sets.
+The needed test sets are in this path `/evaluation/test_set`, and you can find three evaluation sets.
 The corresponding dictionaries are in this path `/evaluation/dict`.
 We also provided the AcroBERT model file in this path `/input/acrobert.pt`.
 Then the scores can be obtained by using the following command:
