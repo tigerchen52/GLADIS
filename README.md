@@ -23,7 +23,7 @@ from inference.acrobert important acronym_linker
 sentence = "This new genome assembly and the annotation are tagged as a RefSeq genome by NCBI."
 
 # mode = ['acrobert', 'pop']
-# AcroBERT has a better performance but slow, the pop method uses the popularity to inference
+# AcroBERT has a better performance while the pop method is faster but with a low accuracy.
 results = acronym_linker(sentence, mode='acrobert')
 print(results)
 
