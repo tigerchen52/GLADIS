@@ -1,52 +1,19 @@
 # GLADIS
 GLADIS: A General and Large Acronym Disambiguation Benchmark (Long paper at EACL 23)
 
+![model](figure/benchmark_construction.jpg)
 
-The tree structure of this folder is shown as follows
+To accelerate the research on acronym disambiguation, we constructed a new benchmark named GLADIS and the pre-trained AcroBERT:
 
-```
-│   README.md
-│   requirements.txt
-│
-├───evaluation
-│   ├───dict
-│   │       bio_umls_dict.json
-│   │       sciad_dict.json
-│   │       uad_dict.json
-│   │
-│   └───test_set
-│           bio_umls_test.json
-│           sciad_test.json
-│           uad_test.json
-│
-├───input
-│   │   acrobert.pt
-│   │   acronym_kb.json
-│   │   pre_train_sample.txt
-│   │
-│   └───dataset
-│       ├───biomedical
-│       │       dev.json
-│       │       test.json
-│       │       train.json
-│       │
-│       ├───general
-│       │       dev.json
-│       │       test.json
-│       │       train.json
-│       │
-│       └───scientific
-│               dev.json
-│               test.json
-│               train.json
-│
-├───output
-└───source
-        acrobert.py
-        evaluation.py
-        utils.py
-        __init__.py
-```
+|  | Source  | Desc |
+|------|------------|------|
+| [Acronym Dictionary](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | [Pile](https://github.com/EleutherAI/the-pile) (MIT license), [Wikidata](https://www.wikidata.org/wiki/Help:Aliases), [UMLS](https://www.nlm.nih.gov/research/umls/index.html) |1.6 M acronyms and 6.4M long forms|
+| [Three Datasets](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | [WikilinksNED Unseen](https://github.com/yasumasaonoe/ET4EL), [SciAD](https://github.com/amirveyseh/AAAI-21-SDU-shared-task-2-AD)(CC BY-NC-SA 4.0), [Medmentions](https://github.com/chanzuckerberg/MedMentions)(CC0 1.0)|three AD datasets that cover general, scientific, biomedical domains |
+| [A Pre-training Corpus](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | [Pile](https://github.com/EleutherAI/the-pile) (MIT license) | 180 million sentences with acronyms|
+| [AcroBERT](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | BERT-based model |the first pre-trained language model for general acronym disambiguation|
+
+
+
 ## Benchmark
 The new benchmark constructed in this paper is located in `input/dataset`.
 This benchmark covers three domains: general, scientific and biomedical.
