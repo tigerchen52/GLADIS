@@ -23,16 +23,24 @@ However, due to the size limit of the upload files, you have to download the dic
 After downloading, decompress it and put the two files to this path `input/`
 
 ## Usage
-The pre-training corpus can be downloaded from this [link](https://zenodo.org/record/7562925#.Y87_3naZNPY), which contains 160 million sentences with acronyms.
+AcroBERT can do end-to-end acronym linking. Given a sentence, our framework first recognize acronyms by using [MadDog](https://github.com/amirveyseh/MadDog), and then disambiguate them by using AcroBERT:
 
-Here we use python3.6 and the Transformers library to implement the model. 
-```
-pip install -r requirements.txt
-```
-### Data preparation
-In total, there are 160 million samples in the pre-training corpus, covering various domains.
-Here, we put 10K samples in this path for testing `input/pre_train_sample.txt`
+```python
+from inference.acrobert important acronym_linker
 
+# input sentence with acronyms, the maximum length is 400 sub-tokens
+sentence = "This new genome assembly and the annotation are tagged as a RefSeq genome by NCBI."
+
+# mode = ['acrobert', 'pop']
+# AcroBERT has a better performance but slow, the pop method uses the popularity to inference
+results = acronym_linker(sentence, mode='acrobert')
+print(results)
+
+## expected output: [('NCBI', 'National Center for Biotechnology Information')]
+```
+
+
+## Re-production
 ### Training
 First you can use `-help` to show the arguments
 ```
@@ -44,7 +52,7 @@ Once completing the data preparation and environment setup, we can train the mod
 python acrobert.py -pre_train_path ../input/pre_train_sample.txt
 ```
 The entire pre-training needs two weeks on a single NVIDIA Tesla V100S PCIe 32 GB Specs.
-## Evaluation
+
 ### Quick Reproduction
 We provide a one-line command to reproduce the scores in Table A1,
 which is the easiest one to reproduce, and you can see the scores after only several minutes. 
