@@ -1,6 +1,7 @@
 # GLADIS
 GLADIS: A General and Large Acronym Disambiguation Benchmark (Long paper at EACL 23)
 
+
 ![model](figure/benchmark_construction.jpg)
 
 To accelerate the research on acronym disambiguation, we constructed a new benchmark named GLADIS and the pre-trained AcroBERT:
@@ -11,16 +12,6 @@ To accelerate the research on acronym disambiguation, we constructed a new bench
 | [Three Datasets](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | [WikilinksNED Unseen](https://github.com/yasumasaonoe/ET4EL), [SciAD](https://github.com/amirveyseh/AAAI-21-SDU-shared-task-2-AD)(CC BY-NC-SA 4.0), [Medmentions](https://github.com/chanzuckerberg/MedMentions)(CC0 1.0)|three AD datasets that cover general, scientific, biomedical domains |
 | [A Pre-training Corpus](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | [Pile](https://github.com/EleutherAI/the-pile) (MIT license) | 180 million sentences with acronyms|
 | [AcroBERT](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | BERT-based model |the first pre-trained language model for general acronym disambiguation|
-
-
-
-## Prepare
-The new benchmark constructed in this paper is located in `input/dataset`.
-The acronym dictionary is supposed to stored in this file: `input/dataset/acronym_kb.json`, which includes 1.5M acronyms
-and 6.4M long forms.
-However, due to the size limit of the upload files, you have to download the dictionary (with the AcroBERT model together) from this link:
-[dictionary and model](https://zenodo.org/record/7568937#.Y9JiQXaZNPY). 
-After downloading, decompress it and put the two files to this path `input/`
 
 ## Usage
 AcroBERT can do end-to-end acronym linking. Given a sentence, our framework first recognize acronyms by using [MadDog](https://github.com/amirveyseh/MadDog), and then disambiguate them by using AcroBERT:
@@ -38,6 +29,16 @@ print(results)
 
 ## expected output: [('NCBI', 'National Center for Biotechnology Information')]
 ```
+
+## Prepare
+The new benchmark constructed in this paper is located in `input/dataset`.
+The acronym dictionary is supposed to stored in this file: `input/dataset/acronym_kb.json`, which includes 1.5M acronyms
+and 6.4M long forms.
+However, due to the size limit of the upload files, you have to download the dictionary (with the AcroBERT model together) from this link:
+[dictionary and model](https://zenodo.org/record/7568937#.Y9JiQXaZNPY). 
+After downloading, decompress it and put the two files to this path `input/`
+
+
 
 
 ## Re-production
