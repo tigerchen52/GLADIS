@@ -19,7 +19,7 @@ The new benchmark constructed in this paper is located in `input/dataset`.
 The acronym dictionary is supposed to stored in this file: `input/dataset/acronym_kb.json`, which includes 1.5M acronyms
 and 6.4M long forms.
 However, due to the size limit of the upload files, you have to download the dictionary (with the AcroBERT model together) from this link:
-[dictionary and model](https://zenodo.org/record/7568921#.Y9FA5XaZNPY). 
+[dictionary and model](https://zenodo.org/record/7568937#.Y9JiQXaZNPY). 
 After downloading, decompress it and put the two files to this path `input/`
 
 ## Usage
