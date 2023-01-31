@@ -80,7 +80,9 @@ class AcronymBERT(nn.Module):
             outputs = self.model(samples).logits
             scores = nn.Softmax(dim=1)(outputs)[:, 0]
 
+
         return loss if train else scores
+
 
 
 def triplet_loss(pos_score, neg_score, margin=0.2):

@@ -57,11 +57,12 @@ def load_pretrain(data_path):
     cnt = 0
     for line in open(data_path, encoding='utf8'):
         cnt += 1
-        # row = line.strip().split('\t')
-        # if len(row) != 3:continue
-        if cnt>200:continue
-        obj = json.loads(line)
-        short_term, long_term, context = obj['short_term'], obj['long_term'], ' '.join(obj['tokens'])
+        row = line.strip().split('\t')
+        if len(row) != 3:continue
+        # if cnt>200:continue
+        # obj = json.loads(line)
+        # short_term, long_term, context = obj['short_term'], obj['long_term'], ' '.join(obj['tokens'])
+        short_term, long_term, context = row[0], row[1], row[2]
         all_short_term.append(short_term)
         all_long_term.append(long_term)
         all_context.append(context)
