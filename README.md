@@ -1,5 +1,5 @@
 # GLADIS
-GLADIS: A General and Large Acronym Disambiguation Benchmark (Long paper at EACL 23)
+GLADIS: A General and Large Acronym Disambiguation Benchmark ([Long paper at EACL 23]())
 
 
 ![model](figure/benchmark_construction.jpg)
