@@ -14,7 +14,7 @@ To accelerate the research on acronym disambiguation, we constructed a new bench
 | [AcroBERT](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | BERT-based model |the first pre-trained language model for general acronym disambiguation|
 
 ## Usage
-AcroBERT can do end-to-end acronym linking. Given a sentence, our framework first recognize acronyms by using [MadDog](https://github.com/amirveyseh/MadDog), and then disambiguate them by using AcroBERT:
+AcroBERT can do end-to-end acronym linking. Given a sentence, our framework first recognize acronyms by using [MadDog](https://github.com/amirveyseh/MadDog) (CC BY-NC-SA 4.0), and then disambiguate them by using AcroBERT:
 
 ```python
 from inference.acrobert important acronym_linker
