@@ -68,3 +68,10 @@ Finally, you can see the results
 ```
 F1: [88.8, 58.0, 67.5], ACC: [93.7, 72.0, 65.3]
 ```
+
+## Citation
+```
+Chen, Lihu, Gaël Varoquaux, and Fabian M. Suchanek. 
+"GLADIS: A General and Large Acronym Disambiguation Benchmark."
+arXiv preprint arXiv:2302.01860 (2023).
+```
