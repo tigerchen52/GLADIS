@@ -17,7 +17,7 @@ To accelerate the research on acronym disambiguation, we constructed a new bench
 AcroBERT can do end-to-end acronym linking. Given a sentence, our framework first recognize acronyms by using [MadDog](https://github.com/amirveyseh/MadDog) (CC BY-NC-SA 4.0), and then disambiguate them by using AcroBERT:
 
 ```python
-from inference.acrobert important acronym_linker
+from inference.acrobert import acronym_linker
 
 # input sentence with acronyms, the maximum length is 400 sub-tokens
 sentence = "This new genome assembly and the annotation are tagged as a RefSeq genome by NCBI."
