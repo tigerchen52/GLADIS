@@ -1,10 +1,12 @@
 # GLADIS
 GLADIS: A General and Large Acronym Disambiguation Benchmark ([Long paper at EACL 23](https://arxiv.org/pdf/2302.01860.pdf))
 
+In this paper, we propose a new Benchmark and an acronym linking system named **AcroBERT**. We have a [demo on Hugginingface](https://huggingface.co/spaces/Lihuchen/AcroBERT), and the below example shows that the result for the a sentence with the arcronym "NCBI":
 
-![model](figure/benchmark_construction.jpg)
+![model](figure/demo.png)
 
-To accelerate the research on acronym disambiguation, we constructed a new benchmark named GLADIS and the pre-trained AcroBERT:
+
+To accelerate the research on acronym disambiguation, we constructed a new benchmark named GLADIS and the pre-trained AcroBERT.
 
 |  | Source  | Description |
 |------|------------|------|
@@ -12,6 +14,8 @@ To accelerate the research on acronym disambiguation, we constructed a new bench
 | [Three Datasets](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | [WikilinksNED Unseen](https://github.com/yasumasaonoe/ET4EL), [SciAD](https://github.com/amirveyseh/AAAI-21-SDU-shared-task-2-AD)(CC BY-NC-SA 4.0), [Medmentions](https://github.com/chanzuckerberg/MedMentions)(CC0 1.0)|three AD datasets that cover general, scientific, biomedical domains |
 | [A Pre-training Corpus](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | [Pile](https://github.com/EleutherAI/the-pile) (MIT license) | 160 million sentences with acronyms|
 | [AcroBERT](https://zenodo.org/record/7568937#.Y9JiQXaZNPY) | BERT-based model |the first pre-trained language model for general acronym disambiguation|
+
+![model](figure/benchmark_construction.jpg)
 
 ## Usage
 AcroBERT can do end-to-end acronym linking. Given a sentence, our framework first recognize acronyms by using [MadDog](https://github.com/amirveyseh/MadDog) (CC BY-NC-SA 4.0), and then disambiguate them by using AcroBERT:
