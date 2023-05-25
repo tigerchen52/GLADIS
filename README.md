@@ -1,7 +1,7 @@
 # GLADIS
-GLADIS: A General and Large Acronym Disambiguation Benchmark ([Long paper at EACL 23](https://arxiv.org/pdf/2302.01860.pdf))
+GLADIS: A General and Large Acronym Disambiguation Benchmark ([Long paper at EACL 23](https://aclanthology.org/2023.eacl-main.152.pdf))
 
-In this paper, we propose a new Benchmark and an acronym linking system named **AcroBERT**. We have a [demo on Hugginingface](https://huggingface.co/spaces/Lihuchen/AcroBERT), and the below example shows that the result for the a sentence with the arcronym "NCBI":
+In this paper, we propose a new Benchmark and an acronym linking system named **AcroBERT**. We have a [demo on Huggingface](https://huggingface.co/spaces/Lihuchen/AcroBERT), and the below example shows that the result for the a sentence with the arcronym "NCBI":
 
 ![model](figure/demo.png)
 
