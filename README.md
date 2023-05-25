@@ -1,5 +1,6 @@
 # GLADIS
-GLADIS: A General and Large Acronym Disambiguation Benchmark ([Long paper at EACL 23](https://aclanthology.org/2023.eacl-main.152.pdf))
+GLADIS: A General and Large Acronym Disambiguation Benchmark ([Long paper at EACL 23](https://aclanthology.org/2023.eacl-main.152.pdf)) under the CC0-1.0 license.
+
 
 In this paper, we propose a new Benchmark named Gladis and an acronym linking system named **AcroBERT**. We have a [demo on Huggingface](https://huggingface.co/spaces/Lihuchen/AcroBERT), and the below example shows that the result for the a sentence with the arcronym "NCBI":
 
