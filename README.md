@@ -34,7 +34,7 @@ print(results)
 ## expected output: [('NCBI', 'National Center for Biotechnology Information')]
 ```
 
-## Prepare
+## Preparation
 The new benchmark constructed in this paper is located in `input/dataset`.
 The acronym dictionary is supposed to stored in this file: `input/dataset/acronym_kb.json`, which includes 1.5M acronyms
 and 6.4M long forms.
