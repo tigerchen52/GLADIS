@@ -6,7 +6,7 @@ In this paper, we propose a new Benchmark named Gladis and an acronym linking sy
 ![model](figure/demo.png)
 
 
-To accelerate the research on acronym disambiguation, we constructed a new benchmark named GLADIS and the pre-trained AcroBERT.
+To accelerate the research on acronym disambiguation, we constructed a new benchmark named GLADIS and the pre-trained AcroBERT. The table below shows the main components in our new benchmark.
 
 |  | Source  | Description |
 |------|------------|------|
