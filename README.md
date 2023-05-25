@@ -75,7 +75,13 @@ F1: [88.8, 58.0, 67.5], ACC: [93.7, 72.0, 65.3]
 
 ## Citation
 ```
-Chen, Lihu, Gaël Varoquaux, and Fabian M. Suchanek. 
-"GLADIS: A General and Large Acronym Disambiguation Benchmark."
-arXiv preprint arXiv:2302.01860 (2023).
+@inproceedings{chen2023gladis,
+  title={GLADIS: A General and Large Acronym Disambiguation Benchmark},
+  author={Chen, Lihu and Varoquaux, Ga{\"e}l and Suchanek, Fabian M},
+  booktitle={EACL 2023-The 17th Conference of the European Chapter of the Association for Computational Linguistics},
+  year={2023}
+}
 ```
+
+## Acknowledgements
+*This work was partially funded by ANR-20-CHIA0012-01 (“NoRDF”).*
