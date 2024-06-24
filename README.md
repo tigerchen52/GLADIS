@@ -74,7 +74,7 @@ Finally, you can see the results
 F1: [88.8, 58.0, 67.5], ACC: [93.7, 72.0, 65.3]
 ```
 
-### Quick Reproduction
+### Finetuning
 ```
 python acrobert.py -mode finetuning -learning_rate 1e-6 -hard_neg_numbers 1 -lr_decay 0.6
 ```
