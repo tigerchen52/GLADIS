@@ -178,6 +178,55 @@ def train():
     return max_f1, max_epoch
 
 
+def finetune(files):
+    model = AcronymBERT(device=args.device)
+    model.load_state_dict(torch.load('../input/acrobert.pt', map_location='cpu'))
+    model.to(args.device)
+    loader = utils.AcroBERTLoader(batch_size=args.batch_size, tokenizer=model.tokenizer, kb=kb, shuffle=args.shuffle, hard_num=args.hard_neg_numbers)
+
+    train_loader = loader(data_path=args.pre_train_path)
+    trainable_num = sum(p.numel() for p in model.parameters() if p.requires_grad)
+    logger.info(trainable_num)
+    optimizer = optim.Adam(model.parameters(), lr=args.learning_rate)
+    scheduler = lr_scheduler.ExponentialLR(optimizer, gamma=0.99)
+
+    max_f1 = 0.0
+    for e in range(args.epoch):
+        epoch_loss = 0
+        batch_num = 0
+
+        for pos_samples, masked_pos_samples, neg_samples in train_loader:
+            model.train()
+            optimizer.zero_grad()
+
+            if batch_num % args.loss_check_step == 0 and batch_num != 0:
+                logger.info('sample = {b}, loss = {a}'.format(a=epoch_loss / batch_num, b=batch_num * args.batch_size))
+
+            if batch_num % args.check_step == 0 and batch_num != 0:
+                for g in optimizer.param_groups:
+                    g['lr'] *= args.lr_decay
+            loss = model(pos_samples, masked_pos_samples, neg_samples)
+
+            # backward
+            loss.backward()
+            optimizer.step()
+            epoch_loss += loss.item()
+            batch_num += 1
+
+        scheduler.step()
+        
+        macro_f1, acc = eval(model, files[1], args.batch_size, train=False)
+        print('finished, epoch = {c}, macro_f1 = {a}, acc = {b}'.format(a=macro_f1, b=acc, c=e + 1))
+        if macro_f1 > max_f1:
+            torch.save(model.state_dict(), "../input/best_finetune.pt")
+            max_f1 = macro_f1
+    
+        temp_path = args.model_path.format(a=e + 1)
+        logger.info('the pre-training finished, saving model, path = {a}'.format(a=temp_path))
+        torch.save(model.state_dict(), temp_path)
+    
+    return max_f1
+
 def run_eval(model_path, device):
     model = AcronymBERT(device=args.device)
     model.load_state_dict(torch.load(model_path, map_location='cpu'))
@@ -199,7 +248,7 @@ def run_eval(model_path, device):
         dict_path = dict_list[index]
         # load acronym dictionary
         new_kb = utils.load_acronym_kb(dict_path)
-        macro_f1, acc = eval(model, path=file, batch_size=args.batch_size, acronym_kb=new_kb, train=False)
+        macro_f1, acc = eval(model, path=file, batch_size=args.batch_size, acronym_kb=new_kb, train=True)
         f1s.append(macro_f1)
         accs.append(acc)
         logger.info(file)
@@ -213,6 +262,22 @@ if __name__ == '__main__':
     logger.info("running %s", " ".join(sys.argv))
     if args.mode == 'training':
         train()
+    elif args.mode == 'finetuning':
+        domain = "biomedical"
+        files = [
+            '/data/parietal/store3/soda/lihu/code/GLADIS/input/dataset/{a}/train.json'.format(a=domain),
+            '/data/parietal/store3/soda/lihu/code/GLADIS/input/dataset/{a}/dev.json'.format(a=domain),
+            '/data/parietal/store3/soda/lihu/code/GLADIS/input/dataset/{a}/test.json'.format(a=domain),
+        ]
+        max_f1 = finetune(files)
+        print("best eval = {a}".format(a=max_f1))
+        
+        model = AcronymBERT(device=args.device)
+        model.load_state_dict(torch.load('../input/best_finetune.pt', map_location='cpu'))
+        model.to(args.device)
+        macro_f1, acc = eval(model, files[-1], args.batch_size, acronym_kb=kb, train=True)
+        print(macro_f1, acc)
     else:
         run_eval(model_path='../input/acrobert.pt', device=args.device)
+        
 
